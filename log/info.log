@@ -4,3 +4,63 @@
  INFO [TestNG-test-Test-1] 2025-08-08 15:33:17.668 (Reporting.java:91) - *** Passed: TC01_TC02_VoltHomePage ***
  INFO [TestNG-test-Test-3] 2025-08-08 15:34:09.580 (Reporting.java:91) - *** Passed: TC08_TC09_TC10_verifyHeaderHyperLinks ***
  INFO [TestNG-test-Test-2] 2025-08-08 15:34:30.072 (Reporting.java:91) - *** Passed: TC04_TC05_TC07_verifyHeaderHyperLinks ***
+ INFO [main] 2025-08-08 15:44:06.737 (Reporting.java:72) - *** Starting : TC11_TC12_TC13_TC14_TC15_CheckEligibilityFormValidation ***
+ INFO [main] 2025-08-08 15:44:26.512 (Reporting.java:101) - *** Failed: TC11_TC12_TC13_TC14_TC15_CheckEligibilityFormValidation ***
+ INFO [main] 2025-08-08 15:44:27.044 (Reporting.java:152) - Failed And Skipped Tests:
+ INFO [main] 2025-08-08 15:44:27.044 (Reporting.java:154) - com.example.volt.testCases.MutualFundLoan.TC11_TC12_TC13_TC14_TC15_CheckEligibilityFormValidation
+ INFO [main] 2025-08-08 15:46:58.965 (Reporting.java:72) - *** Starting : TC11_TC12_TC13_TC14_TC15_CheckEligibilityFormValidation ***
+ INFO [main] 2025-08-08 15:47:02.964 (Reporting.java:91) - *** Passed: TC11_TC12_TC13_TC14_TC15_CheckEligibilityFormValidation ***
+ INFO [main] 2025-08-08 16:05:08.030 (Reporting.java:72) - *** Starting : TC11_TC12_TC13_TC14_TC15_CheckEligibilityFormValidation ***
+ INFO [main] 2025-08-08 16:05:11.849 (Reporting.java:101) - *** Failed: TC11_TC12_TC13_TC14_TC15_CheckEligibilityFormValidation ***
+ INFO [main] 2025-08-08 16:05:12.479 (Reporting.java:152) - Failed And Skipped Tests:
+ INFO [main] 2025-08-08 16:05:12.479 (Reporting.java:154) - com.example.volt.testCases.MutualFundLoan.TC11_TC12_TC13_TC14_TC15_CheckEligibilityFormValidation
+ INFO [main] 2025-08-08 16:06:00.384 (Reporting.java:72) - *** Starting : TC11_TC12_TC13_TC14_TC15_CheckEligibilityFormValidation ***
+ INFO [main] 2025-08-08 16:06:04.808 (Reporting.java:101) - *** Failed: TC11_TC12_TC13_TC14_TC15_CheckEligibilityFormValidation ***
+ INFO [main] 2025-08-08 16:06:05.501 (Reporting.java:152) - Failed And Skipped Tests:
+ INFO [main] 2025-08-08 16:06:05.501 (Reporting.java:154) - com.example.volt.testCases.MutualFundLoan.TC11_TC12_TC13_TC14_TC15_CheckEligibilityFormValidation
+ INFO [main] 2025-08-08 16:07:26.577 (Reporting.java:72) - *** Starting : TC11_TC12_TC13_TC14_TC15_CheckEligibilityFormValidation ***
+ INFO [main] 2025-08-08 16:07:30.669 (Reporting.java:101) - *** Failed: TC11_TC12_TC13_TC14_TC15_CheckEligibilityFormValidation ***
+ INFO [main] 2025-08-08 16:07:31.279 (Reporting.java:152) - Failed And Skipped Tests:
+ INFO [main] 2025-08-08 16:07:31.279 (Reporting.java:154) - com.example.volt.testCases.MutualFundLoan.TC11_TC12_TC13_TC14_TC15_CheckEligibilityFormValidation
+ INFO [main] 2025-08-08 16:08:26.316 (Reporting.java:72) - *** Starting : TC11_TC12_TC13_TC14_TC15_CheckEligibilityFormValidation ***
+ INFO [main] 2025-08-08 16:08:30.478 (Reporting.java:101) - *** Failed: TC11_TC12_TC13_TC14_TC15_CheckEligibilityFormValidation ***
+ INFO [main] 2025-08-08 16:08:31.243 (Reporting.java:152) - Failed And Skipped Tests:
+ INFO [main] 2025-08-08 16:08:31.243 (Reporting.java:154) - com.example.volt.testCases.MutualFundLoan.TC11_TC12_TC13_TC14_TC15_CheckEligibilityFormValidation
+ INFO [main] 2025-08-08 16:08:54.737 (Reporting.java:72) - *** Starting : TC11_TC12_TC13_TC14_TC15_CheckEligibilityFormValidation ***
+ INFO [main] 2025-08-08 16:08:58.652 (Reporting.java:101) - *** Failed: TC11_TC12_TC13_TC14_TC15_CheckEligibilityFormValidation ***
+ INFO [main] 2025-08-08 16:08:59.365 (Reporting.java:152) - Failed And Skipped Tests:
+ INFO [main] 2025-08-08 16:08:59.367 (Reporting.java:154) - com.example.volt.testCases.MutualFundLoan.TC11_TC12_TC13_TC14_TC15_CheckEligibilityFormValidation
+ INFO [main] 2025-08-08 16:09:26.109 (Reporting.java:72) - *** Starting : TC11_TC12_TC13_TC14_TC15_CheckEligibilityFormValidation ***
+ INFO [main] 2025-08-08 16:09:30.491 (Reporting.java:101) - *** Failed: TC11_TC12_TC13_TC14_TC15_CheckEligibilityFormValidation ***
+ INFO [main] 2025-08-08 16:09:31.100 (Reporting.java:152) - Failed And Skipped Tests:
+ INFO [main] 2025-08-08 16:09:31.100 (Reporting.java:154) - com.example.volt.testCases.MutualFundLoan.TC11_TC12_TC13_TC14_TC15_CheckEligibilityFormValidation
+ INFO [main] 2025-08-08 16:10:41.792 (Reporting.java:72) - *** Starting : TC11_TC12_TC13_TC14_TC15_CheckEligibilityFormValidation ***
+ INFO [main] 2025-08-08 16:10:46.864 (Reporting.java:101) - *** Failed: TC11_TC12_TC13_TC14_TC15_CheckEligibilityFormValidation ***
+ INFO [main] 2025-08-08 16:10:47.482 (Reporting.java:152) - Failed And Skipped Tests:
+ INFO [main] 2025-08-08 16:10:47.482 (Reporting.java:154) - com.example.volt.testCases.MutualFundLoan.TC11_TC12_TC13_TC14_TC15_CheckEligibilityFormValidation
+ INFO [main] 2025-08-08 16:11:18.112 (Reporting.java:72) - *** Starting : TC11_TC12_TC13_TC14_TC15_CheckEligibilityFormValidation ***
+ INFO [main] 2025-08-08 16:11:27.976 (Reporting.java:91) - *** Passed: TC11_TC12_TC13_TC14_TC15_CheckEligibilityFormValidation ***
+ INFO [main] 2025-08-08 16:11:55.653 (Reporting.java:72) - *** Starting : TC11_TC12_TC13_TC14_TC15_CheckEligibilityFormValidation ***
+ INFO [main] 2025-08-08 16:12:05.652 (Reporting.java:91) - *** Passed: TC11_TC12_TC13_TC14_TC15_CheckEligibilityFormValidation ***
+ INFO [main] 2025-08-08 16:24:06.668 (Reporting.java:72) - *** Starting : TC11_TC12_TC13_TC14_TC15_TC16_CheckEligibilityFormValidation ***
+ INFO [main] 2025-08-08 16:24:19.014 (Reporting.java:91) - *** Passed: TC11_TC12_TC13_TC14_TC15_TC16_CheckEligibilityFormValidation ***
+ INFO [main] 2025-08-08 16:32:46.338 (Reporting.java:72) - *** Starting : TC17_TC18_hyperLinks ***
+ INFO [main] 2025-08-08 16:33:02.506 (Reporting.java:101) - *** Failed: TC17_TC18_hyperLinks ***
+ INFO [main] 2025-08-08 16:33:02.551 (Reporting.java:152) - Failed And Skipped Tests:
+ INFO [main] 2025-08-08 16:33:02.551 (Reporting.java:154) - com.example.volt.testCases.MutualFundLoan.TC17_TC18_hyperLinks
+ INFO [main] 2025-08-08 16:33:10.894 (Reporting.java:72) - *** Starting : TC17_TC18_hyperLinks ***
+ INFO [main] 2025-08-08 16:33:15.246 (Reporting.java:101) - *** Failed: TC17_TC18_hyperLinks ***
+ INFO [main] 2025-08-08 16:33:15.610 (Reporting.java:152) - Failed And Skipped Tests:
+ INFO [main] 2025-08-08 16:33:15.610 (Reporting.java:154) - com.example.volt.testCases.MutualFundLoan.TC17_TC18_hyperLinks
+ INFO [main] 2025-08-08 16:34:25.428 (Reporting.java:72) - *** Starting : TC17_TC18_hyperLinks ***
+ INFO [main] 2025-08-08 16:34:30.605 (Reporting.java:91) - *** Passed: TC17_TC18_hyperLinks ***
+ INFO [TestNG-test-Test-1] 2025-08-08 16:35:02.689 (Reporting.java:72) - *** Starting : TC01_TC02_VoltHomePage ***
+ INFO [TestNG-test-Test-3] 2025-08-08 16:35:02.710 (Reporting.java:72) - *** Starting : TC08_TC09_TC10_verifyHeaderHyperLinks ***
+ INFO [TestNG-test-Test-4] 2025-08-08 16:35:02.713 (Reporting.java:72) - *** Starting : TC11_TC12_TC13_TC14_TC15_TC16_CheckEligibilityFormValidation ***
+ INFO [TestNG-test-Test-2] 2025-08-08 16:35:02.716 (Reporting.java:72) - *** Starting : TC04_TC05_TC07_verifyHeaderHyperLinks ***
+ INFO [TestNG-test-Test-1] 2025-08-08 16:35:08.698 (Reporting.java:91) - *** Passed: TC01_TC02_VoltHomePage ***
+ INFO [TestNG-test-Test-1] 2025-08-08 16:35:11.774 (Reporting.java:72) - *** Starting : TC17_TC18_hyperLinks ***
+ INFO [TestNG-test-Test-1] 2025-08-08 16:35:19.962 (Reporting.java:91) - *** Passed: TC17_TC18_hyperLinks ***
+ INFO [TestNG-test-Test-4] 2025-08-08 16:35:23.995 (Reporting.java:91) - *** Passed: TC11_TC12_TC13_TC14_TC15_TC16_CheckEligibilityFormValidation ***
+ INFO [TestNG-test-Test-3] 2025-08-08 16:35:56.741 (Reporting.java:91) - *** Passed: TC08_TC09_TC10_verifyHeaderHyperLinks ***
+ INFO [TestNG-test-Test-2] 2025-08-08 16:36:19.090 (Reporting.java:91) - *** Passed: TC04_TC05_TC07_verifyHeaderHyperLinks ***

@@ -48,6 +48,72 @@ public class MFLoanPage extends BasePageObject {
     @FindBy(xpath = "//div[@class='button_buttonOutlineTransparentLarge___Dr9n']/div[text()='Sign in']")
     WebElement btnSignIn;
 
+    @FindBy(xpath = "//input[@placeholder='Enter mobile number']")
+    WebElement txtMobile;
+
+    @FindBy(xpath = "//input[@placeholder='Enter PAN']")
+    WebElement txtPan;
+
+    @FindBy(xpath = "//div[text()='Enter a valid mobile number']")
+    WebElement txtMobileError;
+
+    @FindBy(xpath = "//div[text()='Enter a valid PAN']")
+    WebElement txtPanError;
+
+    @FindBy(xpath = "//div[@class='button_buttonContainerPrimary__ij4d0']")
+    WebElement btnCheckEligibilityForFree;
+
+    @FindBy(xpath = "//button/span[text()='Edit details']")
+    WebElement btnEditDetails;
+
+    @FindBy(xpath = "//span[text()='T&Cs']")
+    WebElement hyperLinktermsandconditions;
+
+    @FindBy(xpath = "//span[text()='Privacy Policy']")
+    WebElement hyperLinkPrivacyPolicy;
+
+    public void clickPrivacyPolicy(){
+        click(hyperLinkPrivacyPolicy);
+    }
+
+    public void clickTermsAndConditions(){
+        actionsHelper.scrollIntoView(hyperLinktermsandconditions);
+        click(hyperLinktermsandconditions);
+    }
+
+    public void clickCheckEligibilityForFree() {
+        click(btnCheckEligibilityForFree);
+        waitHelper.waitForElementVisible(16, btnEditDetails);
+    }
+
+    public boolean verifyPanError() {
+        return visibilityHelper.isPresent(txtPanError, "Enter Valid Pan");
+    }
+
+    public boolean verifyMobileError() {
+        return visibilityHelper.isPresent(txtMobileError, "Enter a valis number");
+    }
+
+    public void setPanNumber(String pan) {
+        setText(txtPan, pan);
+    }
+
+    public void clickTxtPan() {
+        click(txtPan);
+    }
+
+    public String getPanNumber() {
+        return txtPan.getDomAttribute("value");
+    }
+
+    public String getMobileNumber() {
+        return txtMobile.getDomAttribute("value");
+    }
+
+    public void setMobileNumber(String mobile) {
+        setText(txtMobile, mobile);
+    }
+
     public void clickSignIn() {
         click(btnSignIn);
     }

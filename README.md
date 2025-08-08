@@ -14,3 +14,6 @@ mvn test -D testng.suite.xml=testng1 -D maven.test.failure.ignore=true
 
 ## Reports
  - Reports can be found in extent-report/
+
+ ## headlessMode
+ - headlessmode value options are available at Configuration/config.properties file

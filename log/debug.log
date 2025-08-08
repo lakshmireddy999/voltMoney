@@ -40,3 +40,425 @@ DEBUG [TestNG-test-Test-2] 2025-08-08 15:34:08.519 (WaitHelper.java:46) - elemen
  INFO [TestNG-test-Test-3] 2025-08-08 15:34:09.580 (Reporting.java:91) - *** Passed: TC08_TC09_TC10_verifyHeaderHyperLinks ***
 DEBUG [TestNG-test-Test-2] 2025-08-08 15:34:30.059 (BasePageObject.java:33) - Proxy element for: DefaultElementLocator 'By.xpath: //div[text()='For Mutual fund distributors']' clicked
  INFO [TestNG-test-Test-2] 2025-08-08 15:34:30.072 (Reporting.java:91) - *** Passed: TC04_TC05_TC07_verifyHeaderHyperLinks ***
+DEBUG [main] 2025-08-08 15:44:06.712 (WaitHelper.java:34) - waiting for page to load for : 30 seconds
+DEBUG [main] 2025-08-08 15:44:06.720 (WaitHelper.java:36) - page is loaded
+DEBUG [main] 2025-08-08 15:44:06.720 (BasePageObject.java:27) - com.example.volt.PageObjects.MutualFundLoan.MFLoanPage Page Object Initialized
+ INFO [main] 2025-08-08 15:44:06.737 (Reporting.java:72) - *** Starting : TC11_TC12_TC13_TC14_TC15_CheckEligibilityFormValidation ***
+DEBUG [main] 2025-08-08 15:44:09.586 (ActionsHelper.java:45) - WebElement -> xpath: //input[@placeholder='Enter mobile number'] is visible now
+ INFO [main] 2025-08-08 15:44:26.512 (Reporting.java:101) - *** Failed: TC11_TC12_TC13_TC14_TC15_CheckEligibilityFormValidation ***
+ INFO [main] 2025-08-08 15:44:27.044 (Reporting.java:152) - Failed And Skipped Tests:
+ INFO [main] 2025-08-08 15:44:27.044 (Reporting.java:154) - com.example.volt.testCases.MutualFundLoan.TC11_TC12_TC13_TC14_TC15_CheckEligibilityFormValidation
+DEBUG [main] 2025-08-08 15:46:58.943 (WaitHelper.java:34) - waiting for page to load for : 30 seconds
+DEBUG [main] 2025-08-08 15:46:58.950 (WaitHelper.java:36) - page is loaded
+DEBUG [main] 2025-08-08 15:46:58.951 (BasePageObject.java:30) - com.example.volt.PageObjects.MutualFundLoan.MFLoanPage Page Object Initialized
+ INFO [main] 2025-08-08 15:46:58.965 (Reporting.java:72) - *** Starting : TC11_TC12_TC13_TC14_TC15_CheckEligibilityFormValidation ***
+DEBUG [main] 2025-08-08 15:47:02.560 (WaitHelper.java:43) - waiting for :WebElement -> xpath: //input[@placeholder='Enter mobile number'] for :16 seconds
+DEBUG [main] 2025-08-08 15:47:02.638 (WaitHelper.java:46) - element is clickable now
+DEBUG [main] 2025-08-08 15:47:02.939 (BasePageObject.java:48) - eugiuw^%(@) entered in element [[ChromeDriver: chrome on windows (38fae0095943865d125af670b9ebc0a9)] -> xpath: //input[@placeholder='Enter mobile number']]
+ INFO [main] 2025-08-08 15:47:02.964 (Reporting.java:91) - *** Passed: TC11_TC12_TC13_TC14_TC15_CheckEligibilityFormValidation ***
+DEBUG [main] 2025-08-08 16:05:07.998 (WaitHelper.java:34) - waiting for page to load for : 30 seconds
+DEBUG [main] 2025-08-08 16:05:08.010 (WaitHelper.java:36) - page is loaded
+DEBUG [main] 2025-08-08 16:05:08.011 (BasePageObject.java:30) - com.example.volt.PageObjects.MutualFundLoan.MFLoanPage Page Object Initialized
+ INFO [main] 2025-08-08 16:05:08.030 (Reporting.java:72) - *** Starting : TC11_TC12_TC13_TC14_TC15_CheckEligibilityFormValidation ***
+DEBUG [main] 2025-08-08 16:05:10.677 (WaitHelper.java:43) - waiting for :WebElement -> xpath: //input[@placeholder='Enter mobile number'] for :16 seconds
+DEBUG [main] 2025-08-08 16:05:10.743 (WaitHelper.java:46) - element is clickable now
+DEBUG [main] 2025-08-08 16:05:11.037 (BasePageObject.java:48) - eugiuw^%(@) entered in element [[ChromeDriver: chrome on windows (83706403f62177411f83d9d9b8e715e0)] -> xpath: //input[@placeholder='Enter mobile number']]
+DEBUG [main] 2025-08-08 16:05:11.069 (WaitHelper.java:43) - waiting for :WebElement -> xpath: //input[@placeholder='Enter mobile number'] for :16 seconds
+DEBUG [main] 2025-08-08 16:05:11.122 (WaitHelper.java:46) - element is clickable now
+DEBUG [main] 2025-08-08 16:05:11.319 (BasePageObject.java:48) - 0378728 entered in element [[ChromeDriver: chrome on windows (83706403f62177411f83d9d9b8e715e0)] -> xpath: //input[@placeholder='Enter mobile number']]
+DEBUG [main] 2025-08-08 16:05:11.335 (WaitHelper.java:43) - waiting for :WebElement -> xpath: //input[@placeholder='Enter PAN'] for :16 seconds
+DEBUG [main] 2025-08-08 16:05:11.377 (WaitHelper.java:46) - element is clickable now
+DEBUG [main] 2025-08-08 16:05:11.486 (BasePageObject.java:36) - [[ChromeDriver: chrome on windows (83706403f62177411f83d9d9b8e715e0)] -> xpath: //input[@placeholder='Enter PAN']] clicked
+DEBUG [main] 2025-08-08 16:05:11.521 (VisibilityHelper.java:28) - Enter a valis number is present and displayed
+DEBUG [main] 2025-08-08 16:05:11.543 (WaitHelper.java:43) - waiting for :WebElement -> xpath: //input[@placeholder='Enter mobile number'] for :16 seconds
+DEBUG [main] 2025-08-08 16:05:11.593 (WaitHelper.java:46) - element is clickable now
+DEBUG [main] 2025-08-08 16:05:11.817 (BasePageObject.java:48) - 870732425858 entered in element [[ChromeDriver: chrome on windows (83706403f62177411f83d9d9b8e715e0)] -> xpath: //input[@placeholder='Enter mobile number']]
+ INFO [main] 2025-08-08 16:05:11.849 (Reporting.java:101) - *** Failed: TC11_TC12_TC13_TC14_TC15_CheckEligibilityFormValidation ***
+ INFO [main] 2025-08-08 16:05:12.479 (Reporting.java:152) - Failed And Skipped Tests:
+ INFO [main] 2025-08-08 16:05:12.479 (Reporting.java:154) - com.example.volt.testCases.MutualFundLoan.TC11_TC12_TC13_TC14_TC15_CheckEligibilityFormValidation
+DEBUG [main] 2025-08-08 16:06:00.359 (WaitHelper.java:34) - waiting for page to load for : 30 seconds
+DEBUG [main] 2025-08-08 16:06:00.361 (WaitHelper.java:36) - page is loaded
+DEBUG [main] 2025-08-08 16:06:00.361 (BasePageObject.java:30) - com.example.volt.PageObjects.MutualFundLoan.MFLoanPage Page Object Initialized
+ INFO [main] 2025-08-08 16:06:00.384 (Reporting.java:72) - *** Starting : TC11_TC12_TC13_TC14_TC15_CheckEligibilityFormValidation ***
+DEBUG [main] 2025-08-08 16:06:03.490 (WaitHelper.java:43) - waiting for :WebElement -> xpath: //input[@placeholder='Enter mobile number'] for :16 seconds
+DEBUG [main] 2025-08-08 16:06:03.553 (WaitHelper.java:46) - element is clickable now
+DEBUG [main] 2025-08-08 16:06:03.880 (BasePageObject.java:48) - eugiuw^%(@) entered in element [[ChromeDriver: chrome on windows (f46adcc65634b2af1f56457fa1b5ee36)] -> xpath: //input[@placeholder='Enter mobile number']]
+DEBUG [main] 2025-08-08 16:06:03.929 (WaitHelper.java:43) - waiting for :WebElement -> xpath: //input[@placeholder='Enter mobile number'] for :16 seconds
+DEBUG [main] 2025-08-08 16:06:04.004 (WaitHelper.java:46) - element is clickable now
+DEBUG [main] 2025-08-08 16:06:04.217 (BasePageObject.java:48) - 7115229 entered in element [[ChromeDriver: chrome on windows (f46adcc65634b2af1f56457fa1b5ee36)] -> xpath: //input[@placeholder='Enter mobile number']]
+DEBUG [main] 2025-08-08 16:06:04.223 (WaitHelper.java:43) - waiting for :WebElement -> xpath: //input[@placeholder='Enter PAN'] for :16 seconds
+DEBUG [main] 2025-08-08 16:06:04.270 (WaitHelper.java:46) - element is clickable now
+DEBUG [main] 2025-08-08 16:06:04.391 (BasePageObject.java:36) - [[ChromeDriver: chrome on windows (f46adcc65634b2af1f56457fa1b5ee36)] -> xpath: //input[@placeholder='Enter PAN']] clicked
+DEBUG [main] 2025-08-08 16:06:04.427 (VisibilityHelper.java:28) - Enter a valis number is present and displayed
+DEBUG [main] 2025-08-08 16:06:04.451 (WaitHelper.java:43) - waiting for :WebElement -> xpath: //input[@placeholder='Enter mobile number'] for :16 seconds
+DEBUG [main] 2025-08-08 16:06:04.501 (WaitHelper.java:46) - element is clickable now
+DEBUG [main] 2025-08-08 16:06:04.760 (BasePageObject.java:48) - 333173161619 entered in element [[ChromeDriver: chrome on windows (f46adcc65634b2af1f56457fa1b5ee36)] -> xpath: //input[@placeholder='Enter mobile number']]
+ INFO [main] 2025-08-08 16:06:04.808 (Reporting.java:101) - *** Failed: TC11_TC12_TC13_TC14_TC15_CheckEligibilityFormValidation ***
+ INFO [main] 2025-08-08 16:06:05.501 (Reporting.java:152) - Failed And Skipped Tests:
+ INFO [main] 2025-08-08 16:06:05.501 (Reporting.java:154) - com.example.volt.testCases.MutualFundLoan.TC11_TC12_TC13_TC14_TC15_CheckEligibilityFormValidation
+DEBUG [main] 2025-08-08 16:07:26.552 (WaitHelper.java:34) - waiting for page to load for : 30 seconds
+DEBUG [main] 2025-08-08 16:07:26.559 (WaitHelper.java:36) - page is loaded
+DEBUG [main] 2025-08-08 16:07:26.560 (BasePageObject.java:30) - com.example.volt.PageObjects.MutualFundLoan.MFLoanPage Page Object Initialized
+ INFO [main] 2025-08-08 16:07:26.577 (Reporting.java:72) - *** Starting : TC11_TC12_TC13_TC14_TC15_CheckEligibilityFormValidation ***
+DEBUG [main] 2025-08-08 16:07:29.374 (WaitHelper.java:43) - waiting for :WebElement -> xpath: //input[@placeholder='Enter mobile number'] for :16 seconds
+DEBUG [main] 2025-08-08 16:07:29.442 (WaitHelper.java:46) - element is clickable now
+DEBUG [main] 2025-08-08 16:07:29.757 (BasePageObject.java:48) - eugiuw^%(@) entered in element [[ChromeDriver: chrome on windows (8f2b0985b7c1a5876251f360c4a00779)] -> xpath: //input[@placeholder='Enter mobile number']]
+DEBUG [main] 2025-08-08 16:07:29.806 (WaitHelper.java:43) - waiting for :WebElement -> xpath: //input[@placeholder='Enter mobile number'] for :16 seconds
+DEBUG [main] 2025-08-08 16:07:29.855 (WaitHelper.java:46) - element is clickable now
+DEBUG [main] 2025-08-08 16:07:30.120 (BasePageObject.java:48) - 2860507 entered in element [[ChromeDriver: chrome on windows (8f2b0985b7c1a5876251f360c4a00779)] -> xpath: //input[@placeholder='Enter mobile number']]
+DEBUG [main] 2025-08-08 16:07:30.140 (WaitHelper.java:43) - waiting for :WebElement -> xpath: //input[@placeholder='Enter PAN'] for :16 seconds
+DEBUG [main] 2025-08-08 16:07:30.184 (WaitHelper.java:46) - element is clickable now
+DEBUG [main] 2025-08-08 16:07:30.299 (BasePageObject.java:36) - [[ChromeDriver: chrome on windows (8f2b0985b7c1a5876251f360c4a00779)] -> xpath: //input[@placeholder='Enter PAN']] clicked
+DEBUG [main] 2025-08-08 16:07:30.338 (VisibilityHelper.java:28) - Enter a valis number is present and displayed
+DEBUG [main] 2025-08-08 16:07:30.362 (WaitHelper.java:43) - waiting for :WebElement -> xpath: //input[@placeholder='Enter mobile number'] for :16 seconds
+DEBUG [main] 2025-08-08 16:07:30.413 (WaitHelper.java:46) - element is clickable now
+DEBUG [main] 2025-08-08 16:07:30.637 (BasePageObject.java:48) - 746627439798 entered in element [[ChromeDriver: chrome on windows (8f2b0985b7c1a5876251f360c4a00779)] -> xpath: //input[@placeholder='Enter mobile number']]
+ INFO [main] 2025-08-08 16:07:30.669 (Reporting.java:101) - *** Failed: TC11_TC12_TC13_TC14_TC15_CheckEligibilityFormValidation ***
+ INFO [main] 2025-08-08 16:07:31.279 (Reporting.java:152) - Failed And Skipped Tests:
+ INFO [main] 2025-08-08 16:07:31.279 (Reporting.java:154) - com.example.volt.testCases.MutualFundLoan.TC11_TC12_TC13_TC14_TC15_CheckEligibilityFormValidation
+DEBUG [main] 2025-08-08 16:08:26.294 (WaitHelper.java:34) - waiting for page to load for : 30 seconds
+DEBUG [main] 2025-08-08 16:08:26.300 (WaitHelper.java:36) - page is loaded
+DEBUG [main] 2025-08-08 16:08:26.301 (BasePageObject.java:30) - com.example.volt.PageObjects.MutualFundLoan.MFLoanPage Page Object Initialized
+ INFO [main] 2025-08-08 16:08:26.316 (Reporting.java:72) - *** Starting : TC11_TC12_TC13_TC14_TC15_CheckEligibilityFormValidation ***
+DEBUG [main] 2025-08-08 16:08:29.149 (WaitHelper.java:43) - waiting for :WebElement -> xpath: //input[@placeholder='Enter mobile number'] for :16 seconds
+DEBUG [main] 2025-08-08 16:08:29.220 (WaitHelper.java:46) - element is clickable now
+DEBUG [main] 2025-08-08 16:08:29.527 (BasePageObject.java:48) - eugiuw^%(@) entered in element [[ChromeDriver: chrome on windows (729a02d196d3f92c85a6eb8c538aedd6)] -> xpath: //input[@placeholder='Enter mobile number']]
+DEBUG [main] 2025-08-08 16:08:29.568 (WaitHelper.java:43) - waiting for :WebElement -> xpath: //input[@placeholder='Enter mobile number'] for :16 seconds
+DEBUG [main] 2025-08-08 16:08:29.611 (WaitHelper.java:46) - element is clickable now
+DEBUG [main] 2025-08-08 16:08:29.844 (BasePageObject.java:48) - 8864545 entered in element [[ChromeDriver: chrome on windows (729a02d196d3f92c85a6eb8c538aedd6)] -> xpath: //input[@placeholder='Enter mobile number']]
+DEBUG [main] 2025-08-08 16:08:29.863 (WaitHelper.java:43) - waiting for :WebElement -> xpath: //input[@placeholder='Enter PAN'] for :16 seconds
+DEBUG [main] 2025-08-08 16:08:29.914 (WaitHelper.java:46) - element is clickable now
+DEBUG [main] 2025-08-08 16:08:30.055 (BasePageObject.java:36) - [[ChromeDriver: chrome on windows (729a02d196d3f92c85a6eb8c538aedd6)] -> xpath: //input[@placeholder='Enter PAN']] clicked
+DEBUG [main] 2025-08-08 16:08:30.106 (VisibilityHelper.java:28) - Enter a valis number is present and displayed
+DEBUG [main] 2025-08-08 16:08:30.138 (WaitHelper.java:43) - waiting for :WebElement -> xpath: //input[@placeholder='Enter mobile number'] for :16 seconds
+DEBUG [main] 2025-08-08 16:08:30.221 (WaitHelper.java:46) - element is clickable now
+DEBUG [main] 2025-08-08 16:08:30.443 (BasePageObject.java:48) - 547231562526 entered in element [[ChromeDriver: chrome on windows (729a02d196d3f92c85a6eb8c538aedd6)] -> xpath: //input[@placeholder='Enter mobile number']]
+ INFO [main] 2025-08-08 16:08:30.478 (Reporting.java:101) - *** Failed: TC11_TC12_TC13_TC14_TC15_CheckEligibilityFormValidation ***
+ INFO [main] 2025-08-08 16:08:31.243 (Reporting.java:152) - Failed And Skipped Tests:
+ INFO [main] 2025-08-08 16:08:31.243 (Reporting.java:154) - com.example.volt.testCases.MutualFundLoan.TC11_TC12_TC13_TC14_TC15_CheckEligibilityFormValidation
+DEBUG [main] 2025-08-08 16:08:54.708 (WaitHelper.java:34) - waiting for page to load for : 30 seconds
+DEBUG [main] 2025-08-08 16:08:54.708 (WaitHelper.java:36) - page is loaded
+DEBUG [main] 2025-08-08 16:08:54.708 (BasePageObject.java:30) - com.example.volt.PageObjects.MutualFundLoan.MFLoanPage Page Object Initialized
+ INFO [main] 2025-08-08 16:08:54.737 (Reporting.java:72) - *** Starting : TC11_TC12_TC13_TC14_TC15_CheckEligibilityFormValidation ***
+DEBUG [main] 2025-08-08 16:08:57.423 (WaitHelper.java:43) - waiting for :WebElement -> xpath: //input[@placeholder='Enter mobile number'] for :16 seconds
+DEBUG [main] 2025-08-08 16:08:57.491 (WaitHelper.java:46) - element is clickable now
+DEBUG [main] 2025-08-08 16:08:57.791 (BasePageObject.java:48) - eugiuw^%(@) entered in element [[ChromeDriver: chrome on windows (7254381b56222a666f76648229022fd8)] -> xpath: //input[@placeholder='Enter mobile number']]
+DEBUG [main] 2025-08-08 16:08:57.833 (WaitHelper.java:43) - waiting for :WebElement -> xpath: //input[@placeholder='Enter mobile number'] for :16 seconds
+DEBUG [main] 2025-08-08 16:08:57.872 (WaitHelper.java:46) - element is clickable now
+DEBUG [main] 2025-08-08 16:08:58.148 (BasePageObject.java:48) - 485418618762 entered in element [[ChromeDriver: chrome on windows (7254381b56222a666f76648229022fd8)] -> xpath: //input[@placeholder='Enter mobile number']]
+DEBUG [main] 2025-08-08 16:08:58.197 (WaitHelper.java:43) - waiting for :WebElement -> xpath: //input[@placeholder='Enter mobile number'] for :16 seconds
+DEBUG [main] 2025-08-08 16:08:58.232 (WaitHelper.java:46) - element is clickable now
+DEBUG [main] 2025-08-08 16:08:58.413 (BasePageObject.java:48) - 8179080 entered in element [[ChromeDriver: chrome on windows (7254381b56222a666f76648229022fd8)] -> xpath: //input[@placeholder='Enter mobile number']]
+DEBUG [main] 2025-08-08 16:08:58.435 (WaitHelper.java:43) - waiting for :WebElement -> xpath: //input[@placeholder='Enter PAN'] for :16 seconds
+DEBUG [main] 2025-08-08 16:08:58.485 (WaitHelper.java:46) - element is clickable now
+DEBUG [main] 2025-08-08 16:08:58.605 (BasePageObject.java:36) - [[ChromeDriver: chrome on windows (7254381b56222a666f76648229022fd8)] -> xpath: //input[@placeholder='Enter PAN']] clicked
+DEBUG [main] 2025-08-08 16:08:58.635 (VisibilityHelper.java:31) - Enter a valis number is not present
+ INFO [main] 2025-08-08 16:08:58.652 (Reporting.java:101) - *** Failed: TC11_TC12_TC13_TC14_TC15_CheckEligibilityFormValidation ***
+ INFO [main] 2025-08-08 16:08:59.365 (Reporting.java:152) - Failed And Skipped Tests:
+ INFO [main] 2025-08-08 16:08:59.367 (Reporting.java:154) - com.example.volt.testCases.MutualFundLoan.TC11_TC12_TC13_TC14_TC15_CheckEligibilityFormValidation
+DEBUG [main] 2025-08-08 16:09:26.081 (WaitHelper.java:34) - waiting for page to load for : 30 seconds
+DEBUG [main] 2025-08-08 16:09:26.090 (WaitHelper.java:36) - page is loaded
+DEBUG [main] 2025-08-08 16:09:26.090 (BasePageObject.java:30) - com.example.volt.PageObjects.MutualFundLoan.MFLoanPage Page Object Initialized
+ INFO [main] 2025-08-08 16:09:26.109 (Reporting.java:72) - *** Starting : TC11_TC12_TC13_TC14_TC15_CheckEligibilityFormValidation ***
+DEBUG [main] 2025-08-08 16:09:28.828 (WaitHelper.java:43) - waiting for :WebElement -> xpath: //input[@placeholder='Enter mobile number'] for :16 seconds
+DEBUG [main] 2025-08-08 16:09:28.930 (WaitHelper.java:46) - element is clickable now
+DEBUG [main] 2025-08-08 16:09:29.292 (BasePageObject.java:48) - eugiuw^%(@) entered in element [[ChromeDriver: chrome on windows (50b6f4a38c078a675ae0fbb241caa675)] -> xpath: //input[@placeholder='Enter mobile number']]
+DEBUG [main] 2025-08-08 16:09:29.335 (WaitHelper.java:43) - waiting for :WebElement -> xpath: //input[@placeholder='Enter mobile number'] for :16 seconds
+DEBUG [main] 2025-08-08 16:09:29.371 (WaitHelper.java:46) - element is clickable now
+DEBUG [main] 2025-08-08 16:09:29.605 (BasePageObject.java:48) - 1282264 entered in element [[ChromeDriver: chrome on windows (50b6f4a38c078a675ae0fbb241caa675)] -> xpath: //input[@placeholder='Enter mobile number']]
+DEBUG [main] 2025-08-08 16:09:29.624 (WaitHelper.java:43) - waiting for :WebElement -> xpath: //input[@placeholder='Enter PAN'] for :16 seconds
+DEBUG [main] 2025-08-08 16:09:29.655 (WaitHelper.java:46) - element is clickable now
+DEBUG [main] 2025-08-08 16:09:29.784 (BasePageObject.java:36) - [[ChromeDriver: chrome on windows (50b6f4a38c078a675ae0fbb241caa675)] -> xpath: //input[@placeholder='Enter PAN']] clicked
+DEBUG [main] 2025-08-08 16:09:29.823 (VisibilityHelper.java:28) - Enter a valis number is present and displayed
+DEBUG [main] 2025-08-08 16:09:29.865 (WaitHelper.java:43) - waiting for :WebElement -> xpath: //input[@placeholder='Enter mobile number'] for :16 seconds
+DEBUG [main] 2025-08-08 16:09:29.938 (WaitHelper.java:46) - element is clickable now
+DEBUG [main] 2025-08-08 16:09:30.248 (BasePageObject.java:48) - 9398854246 entered in element [[ChromeDriver: chrome on windows (50b6f4a38c078a675ae0fbb241caa675)] -> xpath: //input[@placeholder='Enter mobile number']]
+DEBUG [main] 2025-08-08 16:09:30.276 (WaitHelper.java:43) - waiting for :WebElement -> xpath: //input[@placeholder='Enter PAN'] for :16 seconds
+DEBUG [main] 2025-08-08 16:09:30.330 (WaitHelper.java:46) - element is clickable now
+DEBUG [main] 2025-08-08 16:09:30.445 (BasePageObject.java:36) - [[ChromeDriver: chrome on windows (50b6f4a38c078a675ae0fbb241caa675)] -> xpath: //input[@placeholder='Enter PAN']] clicked
+DEBUG [main] 2025-08-08 16:09:30.477 (VisibilityHelper.java:28) - Enter a valis number is present and displayed
+ INFO [main] 2025-08-08 16:09:30.491 (Reporting.java:101) - *** Failed: TC11_TC12_TC13_TC14_TC15_CheckEligibilityFormValidation ***
+ INFO [main] 2025-08-08 16:09:31.100 (Reporting.java:152) - Failed And Skipped Tests:
+ INFO [main] 2025-08-08 16:09:31.100 (Reporting.java:154) - com.example.volt.testCases.MutualFundLoan.TC11_TC12_TC13_TC14_TC15_CheckEligibilityFormValidation
+DEBUG [main] 2025-08-08 16:10:41.767 (WaitHelper.java:34) - waiting for page to load for : 30 seconds
+DEBUG [main] 2025-08-08 16:10:41.774 (WaitHelper.java:36) - page is loaded
+DEBUG [main] 2025-08-08 16:10:41.776 (BasePageObject.java:30) - com.example.volt.PageObjects.MutualFundLoan.MFLoanPage Page Object Initialized
+ INFO [main] 2025-08-08 16:10:41.792 (Reporting.java:72) - *** Starting : TC11_TC12_TC13_TC14_TC15_CheckEligibilityFormValidation ***
+DEBUG [main] 2025-08-08 16:10:44.975 (WaitHelper.java:43) - waiting for :WebElement -> xpath: //input[@placeholder='Enter mobile number'] for :16 seconds
+DEBUG [main] 2025-08-08 16:10:45.044 (WaitHelper.java:46) - element is clickable now
+DEBUG [main] 2025-08-08 16:10:45.475 (BasePageObject.java:48) - eugiuw^%(@) entered in element [[ChromeDriver: chrome on windows (047892c53816a6070e967397dd1c0759)] -> xpath: //input[@placeholder='Enter mobile number']]
+DEBUG [main] 2025-08-08 16:10:45.518 (WaitHelper.java:43) - waiting for :WebElement -> xpath: //input[@placeholder='Enter mobile number'] for :16 seconds
+DEBUG [main] 2025-08-08 16:10:45.550 (WaitHelper.java:46) - element is clickable now
+DEBUG [main] 2025-08-08 16:10:45.771 (BasePageObject.java:48) - 1460180 entered in element [[ChromeDriver: chrome on windows (047892c53816a6070e967397dd1c0759)] -> xpath: //input[@placeholder='Enter mobile number']]
+DEBUG [main] 2025-08-08 16:10:45.778 (WaitHelper.java:43) - waiting for :WebElement -> xpath: //input[@placeholder='Enter PAN'] for :16 seconds
+DEBUG [main] 2025-08-08 16:10:45.826 (WaitHelper.java:46) - element is clickable now
+DEBUG [main] 2025-08-08 16:10:45.951 (BasePageObject.java:36) - [[ChromeDriver: chrome on windows (047892c53816a6070e967397dd1c0759)] -> xpath: //input[@placeholder='Enter PAN']] clicked
+DEBUG [main] 2025-08-08 16:10:45.992 (VisibilityHelper.java:28) - Enter a valis number is present and displayed
+DEBUG [main] 2025-08-08 16:10:46.016 (WaitHelper.java:43) - waiting for :WebElement -> xpath: //input[@placeholder='Enter PAN'] for :16 seconds
+DEBUG [main] 2025-08-08 16:10:46.067 (WaitHelper.java:46) - element is clickable now
+DEBUG [main] 2025-08-08 16:10:46.325 (BasePageObject.java:48) - ADVPR78652 entered in element [[ChromeDriver: chrome on windows (047892c53816a6070e967397dd1c0759)] -> xpath: //input[@placeholder='Enter PAN']]
+DEBUG [main] 2025-08-08 16:10:46.345 (VisibilityHelper.java:28) - Enter Valid Pan is present and displayed
+DEBUG [main] 2025-08-08 16:10:46.361 (WaitHelper.java:43) - waiting for :WebElement -> xpath: //input[@placeholder='Enter mobile number'] for :16 seconds
+DEBUG [main] 2025-08-08 16:10:46.408 (WaitHelper.java:46) - element is clickable now
+DEBUG [main] 2025-08-08 16:10:46.626 (BasePageObject.java:48) - 1585637752 entered in element [[ChromeDriver: chrome on windows (047892c53816a6070e967397dd1c0759)] -> xpath: //input[@placeholder='Enter mobile number']]
+DEBUG [main] 2025-08-08 16:10:46.643 (WaitHelper.java:43) - waiting for :WebElement -> xpath: //input[@placeholder='Enter PAN'] for :16 seconds
+DEBUG [main] 2025-08-08 16:10:46.692 (WaitHelper.java:46) - element is clickable now
+DEBUG [main] 2025-08-08 16:10:46.820 (BasePageObject.java:36) - [[ChromeDriver: chrome on windows (047892c53816a6070e967397dd1c0759)] -> xpath: //input[@placeholder='Enter PAN']] clicked
+DEBUG [main] 2025-08-08 16:10:46.850 (VisibilityHelper.java:28) - Enter a valis number is present and displayed
+ INFO [main] 2025-08-08 16:10:46.864 (Reporting.java:101) - *** Failed: TC11_TC12_TC13_TC14_TC15_CheckEligibilityFormValidation ***
+ INFO [main] 2025-08-08 16:10:47.482 (Reporting.java:152) - Failed And Skipped Tests:
+ INFO [main] 2025-08-08 16:10:47.482 (Reporting.java:154) - com.example.volt.testCases.MutualFundLoan.TC11_TC12_TC13_TC14_TC15_CheckEligibilityFormValidation
+DEBUG [main] 2025-08-08 16:11:18.087 (WaitHelper.java:34) - waiting for page to load for : 30 seconds
+DEBUG [main] 2025-08-08 16:11:18.097 (WaitHelper.java:36) - page is loaded
+DEBUG [main] 2025-08-08 16:11:18.099 (BasePageObject.java:30) - com.example.volt.PageObjects.MutualFundLoan.MFLoanPage Page Object Initialized
+ INFO [main] 2025-08-08 16:11:18.112 (Reporting.java:72) - *** Starting : TC11_TC12_TC13_TC14_TC15_CheckEligibilityFormValidation ***
+DEBUG [main] 2025-08-08 16:11:20.882 (WaitHelper.java:43) - waiting for :WebElement -> xpath: //input[@placeholder='Enter mobile number'] for :16 seconds
+DEBUG [main] 2025-08-08 16:11:20.949 (WaitHelper.java:46) - element is clickable now
+DEBUG [main] 2025-08-08 16:11:21.919 (ActionsHelper.java:67) - [[ChromeDriver: chrome on windows (e486d62db7e98e120eb4247ab79106dc)] -> xpath: //input[@placeholder='Enter mobile number']] text cleared successfully
+DEBUG [main] 2025-08-08 16:11:22.077 (BasePageObject.java:48) - eugiuw^%(@) entered in element [[ChromeDriver: chrome on windows (e486d62db7e98e120eb4247ab79106dc)] -> xpath: //input[@placeholder='Enter mobile number']]
+DEBUG [main] 2025-08-08 16:11:22.109 (WaitHelper.java:43) - waiting for :WebElement -> xpath: //input[@placeholder='Enter mobile number'] for :16 seconds
+DEBUG [main] 2025-08-08 16:11:22.165 (WaitHelper.java:46) - element is clickable now
+DEBUG [main] 2025-08-08 16:11:23.042 (ActionsHelper.java:67) - [[ChromeDriver: chrome on windows (e486d62db7e98e120eb4247ab79106dc)] -> xpath: //input[@placeholder='Enter mobile number']] text cleared successfully
+DEBUG [main] 2025-08-08 16:11:23.137 (BasePageObject.java:48) - 3222501 entered in element [[ChromeDriver: chrome on windows (e486d62db7e98e120eb4247ab79106dc)] -> xpath: //input[@placeholder='Enter mobile number']]
+DEBUG [main] 2025-08-08 16:11:23.160 (WaitHelper.java:43) - waiting for :WebElement -> xpath: //input[@placeholder='Enter PAN'] for :16 seconds
+DEBUG [main] 2025-08-08 16:11:23.199 (WaitHelper.java:46) - element is clickable now
+DEBUG [main] 2025-08-08 16:11:23.352 (BasePageObject.java:36) - [[ChromeDriver: chrome on windows (e486d62db7e98e120eb4247ab79106dc)] -> xpath: //input[@placeholder='Enter PAN']] clicked
+DEBUG [main] 2025-08-08 16:11:23.388 (VisibilityHelper.java:28) - Enter a valis number is present and displayed
+DEBUG [main] 2025-08-08 16:11:23.408 (WaitHelper.java:43) - waiting for :WebElement -> xpath: //input[@placeholder='Enter PAN'] for :16 seconds
+DEBUG [main] 2025-08-08 16:11:23.457 (WaitHelper.java:46) - element is clickable now
+DEBUG [main] 2025-08-08 16:11:24.318 (ActionsHelper.java:67) - [[ChromeDriver: chrome on windows (e486d62db7e98e120eb4247ab79106dc)] -> xpath: //input[@placeholder='Enter PAN']] text cleared successfully
+DEBUG [main] 2025-08-08 16:11:24.440 (BasePageObject.java:48) - ADVPR78652 entered in element [[ChromeDriver: chrome on windows (e486d62db7e98e120eb4247ab79106dc)] -> xpath: //input[@placeholder='Enter PAN']]
+DEBUG [main] 2025-08-08 16:11:24.468 (VisibilityHelper.java:28) - Enter Valid Pan is present and displayed
+DEBUG [main] 2025-08-08 16:11:24.483 (WaitHelper.java:43) - waiting for :WebElement -> xpath: //input[@placeholder='Enter mobile number'] for :16 seconds
+DEBUG [main] 2025-08-08 16:11:24.514 (WaitHelper.java:46) - element is clickable now
+DEBUG [main] 2025-08-08 16:11:25.476 (ActionsHelper.java:67) - [[ChromeDriver: chrome on windows (e486d62db7e98e120eb4247ab79106dc)] -> xpath: //input[@placeholder='Enter mobile number']] text cleared successfully
+DEBUG [main] 2025-08-08 16:11:25.594 (BasePageObject.java:48) - 4987632341 entered in element [[ChromeDriver: chrome on windows (e486d62db7e98e120eb4247ab79106dc)] -> xpath: //input[@placeholder='Enter mobile number']]
+DEBUG [main] 2025-08-08 16:11:25.601 (WaitHelper.java:43) - waiting for :WebElement -> xpath: //input[@placeholder='Enter PAN'] for :16 seconds
+DEBUG [main] 2025-08-08 16:11:25.632 (WaitHelper.java:46) - element is clickable now
+DEBUG [main] 2025-08-08 16:11:25.767 (BasePageObject.java:36) - [[ChromeDriver: chrome on windows (e486d62db7e98e120eb4247ab79106dc)] -> xpath: //input[@placeholder='Enter PAN']] clicked
+DEBUG [main] 2025-08-08 16:11:25.795 (VisibilityHelper.java:31) - Enter a valis number is not present
+DEBUG [main] 2025-08-08 16:11:25.814 (WaitHelper.java:43) - waiting for :WebElement -> xpath: //input[@placeholder='Enter mobile number'] for :16 seconds
+DEBUG [main] 2025-08-08 16:11:25.860 (WaitHelper.java:46) - element is clickable now
+DEBUG [main] 2025-08-08 16:11:26.777 (ActionsHelper.java:67) - [[ChromeDriver: chrome on windows (e486d62db7e98e120eb4247ab79106dc)] -> xpath: //input[@placeholder='Enter mobile number']] text cleared successfully
+DEBUG [main] 2025-08-08 16:11:26.900 (BasePageObject.java:48) - 239701603954 entered in element [[ChromeDriver: chrome on windows (e486d62db7e98e120eb4247ab79106dc)] -> xpath: //input[@placeholder='Enter mobile number']]
+DEBUG [main] 2025-08-08 16:11:26.925 (WaitHelper.java:43) - waiting for :WebElement -> xpath: //input[@placeholder='Enter PAN'] for :16 seconds
+DEBUG [main] 2025-08-08 16:11:26.956 (WaitHelper.java:46) - element is clickable now
+DEBUG [main] 2025-08-08 16:11:27.842 (ActionsHelper.java:67) - [[ChromeDriver: chrome on windows (e486d62db7e98e120eb4247ab79106dc)] -> xpath: //input[@placeholder='Enter PAN']] text cleared successfully
+DEBUG [main] 2025-08-08 16:11:27.963 (BasePageObject.java:48) - uvcll3f0pa entered in element [[ChromeDriver: chrome on windows (e486d62db7e98e120eb4247ab79106dc)] -> xpath: //input[@placeholder='Enter PAN']]
+DEBUG [main] 2025-08-08 16:11:27.976 (VisibilityHelper.java:28) - Enter Valid Pan is present and displayed
+ INFO [main] 2025-08-08 16:11:27.976 (Reporting.java:91) - *** Passed: TC11_TC12_TC13_TC14_TC15_CheckEligibilityFormValidation ***
+DEBUG [main] 2025-08-08 16:11:55.627 (WaitHelper.java:34) - waiting for page to load for : 30 seconds
+DEBUG [main] 2025-08-08 16:11:55.635 (WaitHelper.java:36) - page is loaded
+DEBUG [main] 2025-08-08 16:11:55.635 (BasePageObject.java:30) - com.example.volt.PageObjects.MutualFundLoan.MFLoanPage Page Object Initialized
+ INFO [main] 2025-08-08 16:11:55.653 (Reporting.java:72) - *** Starting : TC11_TC12_TC13_TC14_TC15_CheckEligibilityFormValidation ***
+DEBUG [main] 2025-08-08 16:11:58.424 (WaitHelper.java:43) - waiting for :WebElement -> xpath: //input[@placeholder='Enter mobile number'] for :16 seconds
+DEBUG [main] 2025-08-08 16:11:58.491 (WaitHelper.java:46) - element is clickable now
+DEBUG [main] 2025-08-08 16:11:59.490 (ActionsHelper.java:67) - [[ChromeDriver: chrome on windows (91438ac3319d2da4035401a69054e893)] -> xpath: //input[@placeholder='Enter mobile number']] text cleared successfully
+DEBUG [main] 2025-08-08 16:11:59.614 (BasePageObject.java:48) - eugiuw^%(@) entered in element [[ChromeDriver: chrome on windows (91438ac3319d2da4035401a69054e893)] -> xpath: //input[@placeholder='Enter mobile number']]
+DEBUG [main] 2025-08-08 16:11:59.649 (WaitHelper.java:43) - waiting for :WebElement -> xpath: //input[@placeholder='Enter mobile number'] for :16 seconds
+DEBUG [main] 2025-08-08 16:11:59.681 (WaitHelper.java:46) - element is clickable now
+DEBUG [main] 2025-08-08 16:12:00.604 (ActionsHelper.java:67) - [[ChromeDriver: chrome on windows (91438ac3319d2da4035401a69054e893)] -> xpath: //input[@placeholder='Enter mobile number']] text cleared successfully
+DEBUG [main] 2025-08-08 16:12:00.706 (BasePageObject.java:48) - 4032346 entered in element [[ChromeDriver: chrome on windows (91438ac3319d2da4035401a69054e893)] -> xpath: //input[@placeholder='Enter mobile number']]
+DEBUG [main] 2025-08-08 16:12:00.733 (WaitHelper.java:43) - waiting for :WebElement -> xpath: //input[@placeholder='Enter PAN'] for :16 seconds
+DEBUG [main] 2025-08-08 16:12:00.797 (WaitHelper.java:46) - element is clickable now
+DEBUG [main] 2025-08-08 16:12:00.917 (BasePageObject.java:36) - [[ChromeDriver: chrome on windows (91438ac3319d2da4035401a69054e893)] -> xpath: //input[@placeholder='Enter PAN']] clicked
+DEBUG [main] 2025-08-08 16:12:00.954 (VisibilityHelper.java:28) - Enter a valis number is present and displayed
+DEBUG [main] 2025-08-08 16:12:00.975 (WaitHelper.java:43) - waiting for :WebElement -> xpath: //input[@placeholder='Enter mobile number'] for :16 seconds
+DEBUG [main] 2025-08-08 16:12:01.026 (WaitHelper.java:46) - element is clickable now
+DEBUG [main] 2025-08-08 16:12:02.059 (ActionsHelper.java:67) - [[ChromeDriver: chrome on windows (91438ac3319d2da4035401a69054e893)] -> xpath: //input[@placeholder='Enter mobile number']] text cleared successfully
+DEBUG [main] 2025-08-08 16:12:02.194 (BasePageObject.java:48) - 326276500574 entered in element [[ChromeDriver: chrome on windows (91438ac3319d2da4035401a69054e893)] -> xpath: //input[@placeholder='Enter mobile number']]
+DEBUG [main] 2025-08-08 16:12:02.215 (WaitHelper.java:43) - waiting for :WebElement -> xpath: //input[@placeholder='Enter mobile number'] for :16 seconds
+DEBUG [main] 2025-08-08 16:12:02.262 (WaitHelper.java:46) - element is clickable now
+DEBUG [main] 2025-08-08 16:12:03.116 (ActionsHelper.java:67) - [[ChromeDriver: chrome on windows (91438ac3319d2da4035401a69054e893)] -> xpath: //input[@placeholder='Enter mobile number']] text cleared successfully
+DEBUG [main] 2025-08-08 16:12:03.235 (BasePageObject.java:48) - 5578555957 entered in element [[ChromeDriver: chrome on windows (91438ac3319d2da4035401a69054e893)] -> xpath: //input[@placeholder='Enter mobile number']]
+DEBUG [main] 2025-08-08 16:12:03.241 (WaitHelper.java:43) - waiting for :WebElement -> xpath: //input[@placeholder='Enter PAN'] for :16 seconds
+DEBUG [main] 2025-08-08 16:12:03.273 (WaitHelper.java:46) - element is clickable now
+DEBUG [main] 2025-08-08 16:12:03.386 (BasePageObject.java:36) - [[ChromeDriver: chrome on windows (91438ac3319d2da4035401a69054e893)] -> xpath: //input[@placeholder='Enter PAN']] clicked
+DEBUG [main] 2025-08-08 16:12:03.410 (VisibilityHelper.java:31) - Enter a valis number is not present
+DEBUG [main] 2025-08-08 16:12:03.439 (WaitHelper.java:43) - waiting for :WebElement -> xpath: //input[@placeholder='Enter PAN'] for :16 seconds
+DEBUG [main] 2025-08-08 16:12:03.486 (WaitHelper.java:46) - element is clickable now
+DEBUG [main] 2025-08-08 16:12:04.332 (ActionsHelper.java:67) - [[ChromeDriver: chrome on windows (91438ac3319d2da4035401a69054e893)] -> xpath: //input[@placeholder='Enter PAN']] text cleared successfully
+DEBUG [main] 2025-08-08 16:12:04.456 (BasePageObject.java:48) - ADVPR78652 entered in element [[ChromeDriver: chrome on windows (91438ac3319d2da4035401a69054e893)] -> xpath: //input[@placeholder='Enter PAN']]
+DEBUG [main] 2025-08-08 16:12:04.482 (VisibilityHelper.java:28) - Enter Valid Pan is present and displayed
+DEBUG [main] 2025-08-08 16:12:04.497 (WaitHelper.java:43) - waiting for :WebElement -> xpath: //input[@placeholder='Enter PAN'] for :16 seconds
+DEBUG [main] 2025-08-08 16:12:04.529 (WaitHelper.java:46) - element is clickable now
+DEBUG [main] 2025-08-08 16:12:05.481 (ActionsHelper.java:67) - [[ChromeDriver: chrome on windows (91438ac3319d2da4035401a69054e893)] -> xpath: //input[@placeholder='Enter PAN']] text cleared successfully
+DEBUG [main] 2025-08-08 16:12:05.620 (BasePageObject.java:48) - 56yafof0n0 entered in element [[ChromeDriver: chrome on windows (91438ac3319d2da4035401a69054e893)] -> xpath: //input[@placeholder='Enter PAN']]
+DEBUG [main] 2025-08-08 16:12:05.640 (VisibilityHelper.java:28) - Enter Valid Pan is present and displayed
+ INFO [main] 2025-08-08 16:12:05.652 (Reporting.java:91) - *** Passed: TC11_TC12_TC13_TC14_TC15_CheckEligibilityFormValidation ***
+DEBUG [main] 2025-08-08 16:24:06.642 (WaitHelper.java:34) - waiting for page to load for : 30 seconds
+DEBUG [main] 2025-08-08 16:24:06.649 (WaitHelper.java:36) - page is loaded
+DEBUG [main] 2025-08-08 16:24:06.650 (BasePageObject.java:30) - com.example.volt.PageObjects.MutualFundLoan.MFLoanPage Page Object Initialized
+ INFO [main] 2025-08-08 16:24:06.668 (Reporting.java:72) - *** Starting : TC11_TC12_TC13_TC14_TC15_TC16_CheckEligibilityFormValidation ***
+DEBUG [main] 2025-08-08 16:24:09.569 (WaitHelper.java:43) - waiting for :WebElement -> xpath: //input[@placeholder='Enter mobile number'] for :16 seconds
+DEBUG [main] 2025-08-08 16:24:09.640 (WaitHelper.java:46) - element is clickable now
+DEBUG [main] 2025-08-08 16:24:10.666 (ActionsHelper.java:67) - [[ChromeDriver: chrome on windows (2549313b68296ed64a5d2313578c4aa8)] -> xpath: //input[@placeholder='Enter mobile number']] text cleared successfully
+DEBUG [main] 2025-08-08 16:24:10.791 (BasePageObject.java:48) - eugiuw^%(@) entered in element [[ChromeDriver: chrome on windows (2549313b68296ed64a5d2313578c4aa8)] -> xpath: //input[@placeholder='Enter mobile number']]
+DEBUG [main] 2025-08-08 16:24:10.825 (WaitHelper.java:43) - waiting for :WebElement -> xpath: //input[@placeholder='Enter mobile number'] for :16 seconds
+DEBUG [main] 2025-08-08 16:24:10.866 (WaitHelper.java:46) - element is clickable now
+DEBUG [main] 2025-08-08 16:24:11.791 (ActionsHelper.java:67) - [[ChromeDriver: chrome on windows (2549313b68296ed64a5d2313578c4aa8)] -> xpath: //input[@placeholder='Enter mobile number']] text cleared successfully
+DEBUG [main] 2025-08-08 16:24:11.881 (BasePageObject.java:48) - 3238568 entered in element [[ChromeDriver: chrome on windows (2549313b68296ed64a5d2313578c4aa8)] -> xpath: //input[@placeholder='Enter mobile number']]
+DEBUG [main] 2025-08-08 16:24:11.899 (WaitHelper.java:43) - waiting for :WebElement -> xpath: //input[@placeholder='Enter PAN'] for :16 seconds
+DEBUG [main] 2025-08-08 16:24:11.941 (WaitHelper.java:46) - element is clickable now
+DEBUG [main] 2025-08-08 16:24:12.064 (BasePageObject.java:36) - [[ChromeDriver: chrome on windows (2549313b68296ed64a5d2313578c4aa8)] -> xpath: //input[@placeholder='Enter PAN']] clicked
+DEBUG [main] 2025-08-08 16:24:12.099 (VisibilityHelper.java:28) - Enter a valis number is present and displayed
+DEBUG [main] 2025-08-08 16:24:12.121 (WaitHelper.java:43) - waiting for :WebElement -> xpath: //input[@placeholder='Enter mobile number'] for :16 seconds
+DEBUG [main] 2025-08-08 16:24:12.171 (WaitHelper.java:46) - element is clickable now
+DEBUG [main] 2025-08-08 16:24:13.099 (ActionsHelper.java:67) - [[ChromeDriver: chrome on windows (2549313b68296ed64a5d2313578c4aa8)] -> xpath: //input[@placeholder='Enter mobile number']] text cleared successfully
+DEBUG [main] 2025-08-08 16:24:13.221 (BasePageObject.java:48) - 863643858017 entered in element [[ChromeDriver: chrome on windows (2549313b68296ed64a5d2313578c4aa8)] -> xpath: //input[@placeholder='Enter mobile number']]
+DEBUG [main] 2025-08-08 16:24:13.249 (WaitHelper.java:43) - waiting for :WebElement -> xpath: //input[@placeholder='Enter mobile number'] for :16 seconds
+DEBUG [main] 2025-08-08 16:24:13.282 (WaitHelper.java:46) - element is clickable now
+DEBUG [main] 2025-08-08 16:24:14.132 (ActionsHelper.java:67) - [[ChromeDriver: chrome on windows (2549313b68296ed64a5d2313578c4aa8)] -> xpath: //input[@placeholder='Enter mobile number']] text cleared successfully
+DEBUG [main] 2025-08-08 16:24:14.243 (BasePageObject.java:48) - 7662263880 entered in element [[ChromeDriver: chrome on windows (2549313b68296ed64a5d2313578c4aa8)] -> xpath: //input[@placeholder='Enter mobile number']]
+DEBUG [main] 2025-08-08 16:24:14.257 (WaitHelper.java:43) - waiting for :WebElement -> xpath: //input[@placeholder='Enter PAN'] for :16 seconds
+DEBUG [main] 2025-08-08 16:24:14.290 (WaitHelper.java:46) - element is clickable now
+DEBUG [main] 2025-08-08 16:24:14.395 (BasePageObject.java:36) - [[ChromeDriver: chrome on windows (2549313b68296ed64a5d2313578c4aa8)] -> xpath: //input[@placeholder='Enter PAN']] clicked
+DEBUG [main] 2025-08-08 16:24:14.419 (VisibilityHelper.java:31) - Enter a valis number is not present
+DEBUG [main] 2025-08-08 16:24:14.437 (WaitHelper.java:43) - waiting for :WebElement -> xpath: //input[@placeholder='Enter PAN'] for :16 seconds
+DEBUG [main] 2025-08-08 16:24:14.484 (WaitHelper.java:46) - element is clickable now
+DEBUG [main] 2025-08-08 16:24:15.336 (ActionsHelper.java:67) - [[ChromeDriver: chrome on windows (2549313b68296ed64a5d2313578c4aa8)] -> xpath: //input[@placeholder='Enter PAN']] text cleared successfully
+DEBUG [main] 2025-08-08 16:24:15.509 (BasePageObject.java:48) - ADVPR78652 entered in element [[ChromeDriver: chrome on windows (2549313b68296ed64a5d2313578c4aa8)] -> xpath: //input[@placeholder='Enter PAN']]
+DEBUG [main] 2025-08-08 16:24:15.549 (VisibilityHelper.java:28) - Enter Valid Pan is present and displayed
+DEBUG [main] 2025-08-08 16:24:15.577 (WaitHelper.java:43) - waiting for :WebElement -> xpath: //input[@placeholder='Enter PAN'] for :16 seconds
+DEBUG [main] 2025-08-08 16:24:15.634 (WaitHelper.java:46) - element is clickable now
+DEBUG [main] 2025-08-08 16:24:16.582 (ActionsHelper.java:67) - [[ChromeDriver: chrome on windows (2549313b68296ed64a5d2313578c4aa8)] -> xpath: //input[@placeholder='Enter PAN']] text cleared successfully
+DEBUG [main] 2025-08-08 16:24:16.700 (BasePageObject.java:48) - lx48kxrayv entered in element [[ChromeDriver: chrome on windows (2549313b68296ed64a5d2313578c4aa8)] -> xpath: //input[@placeholder='Enter PAN']]
+DEBUG [main] 2025-08-08 16:24:16.723 (VisibilityHelper.java:28) - Enter Valid Pan is present and displayed
+DEBUG [main] 2025-08-08 16:24:16.731 (WaitHelper.java:43) - waiting for :WebElement -> xpath: //input[@placeholder='Enter PAN'] for :16 seconds
+DEBUG [main] 2025-08-08 16:24:16.773 (WaitHelper.java:46) - element is clickable now
+DEBUG [main] 2025-08-08 16:24:17.606 (ActionsHelper.java:67) - [[ChromeDriver: chrome on windows (2549313b68296ed64a5d2313578c4aa8)] -> xpath: //input[@placeholder='Enter PAN']] text cleared successfully
+DEBUG [main] 2025-08-08 16:24:17.725 (BasePageObject.java:48) - ABDPY6754D entered in element [[ChromeDriver: chrome on windows (2549313b68296ed64a5d2313578c4aa8)] -> xpath: //input[@placeholder='Enter PAN']]
+DEBUG [main] 2025-08-08 16:24:17.743 (VisibilityHelper.java:31) - Enter Valid Pan is not present
+DEBUG [main] 2025-08-08 16:24:17.764 (WaitHelper.java:43) - waiting for :WebElement -> xpath: //div[@class='button_buttonContainerPrimary__ij4d0'] for :16 seconds
+DEBUG [main] 2025-08-08 16:24:17.811 (WaitHelper.java:46) - element is clickable now
+DEBUG [main] 2025-08-08 16:24:17.944 (BasePageObject.java:36) - [[ChromeDriver: chrome on windows (2549313b68296ed64a5d2313578c4aa8)] -> xpath: //div[@class='button_buttonContainerPrimary__ij4d0']] clicked
+ INFO [main] 2025-08-08 16:24:19.014 (Reporting.java:91) - *** Passed: TC11_TC12_TC13_TC14_TC15_TC16_CheckEligibilityFormValidation ***
+DEBUG [main] 2025-08-08 16:32:46.316 (WaitHelper.java:34) - waiting for page to load for : 30 seconds
+DEBUG [main] 2025-08-08 16:32:46.324 (WaitHelper.java:36) - page is loaded
+DEBUG [main] 2025-08-08 16:32:46.324 (BasePageObject.java:30) - com.example.volt.PageObjects.MutualFundLoan.MFLoanPage Page Object Initialized
+ INFO [main] 2025-08-08 16:32:46.338 (Reporting.java:72) - *** Starting : TC17_TC18_hyperLinks ***
+DEBUG [main] 2025-08-08 16:32:46.410 (WaitHelper.java:43) - waiting for :WebElement By.xpath: //span[text()='T&Cs'] for :16 seconds
+ INFO [main] 2025-08-08 16:33:02.506 (Reporting.java:101) - *** Failed: TC17_TC18_hyperLinks ***
+ INFO [main] 2025-08-08 16:33:02.551 (Reporting.java:152) - Failed And Skipped Tests:
+ INFO [main] 2025-08-08 16:33:02.551 (Reporting.java:154) - com.example.volt.testCases.MutualFundLoan.TC17_TC18_hyperLinks
+DEBUG [main] 2025-08-08 16:33:10.873 (WaitHelper.java:34) - waiting for page to load for : 30 seconds
+DEBUG [main] 2025-08-08 16:33:10.879 (WaitHelper.java:36) - page is loaded
+DEBUG [main] 2025-08-08 16:33:10.879 (BasePageObject.java:30) - com.example.volt.PageObjects.MutualFundLoan.MFLoanPage Page Object Initialized
+ INFO [main] 2025-08-08 16:33:10.894 (Reporting.java:72) - *** Starting : TC17_TC18_hyperLinks ***
+DEBUG [main] 2025-08-08 16:33:14.072 (WaitHelper.java:43) - waiting for :WebElement -> xpath: //span[text()='T&Cs'] for :16 seconds
+DEBUG [main] 2025-08-08 16:33:14.141 (WaitHelper.java:46) - element is clickable now
+DEBUG [main] 2025-08-08 16:33:14.325 (BasePageObject.java:36) - [[ChromeDriver: chrome on windows (327e9d2430e0e1166aab3d939527c11a)] -> xpath: //span[text()='T&Cs']] clicked
+ INFO [main] 2025-08-08 16:33:15.246 (Reporting.java:101) - *** Failed: TC17_TC18_hyperLinks ***
+ INFO [main] 2025-08-08 16:33:15.610 (Reporting.java:152) - Failed And Skipped Tests:
+ INFO [main] 2025-08-08 16:33:15.610 (Reporting.java:154) - com.example.volt.testCases.MutualFundLoan.TC17_TC18_hyperLinks
+DEBUG [main] 2025-08-08 16:34:25.408 (WaitHelper.java:34) - waiting for page to load for : 30 seconds
+DEBUG [main] 2025-08-08 16:34:25.414 (WaitHelper.java:36) - page is loaded
+DEBUG [main] 2025-08-08 16:34:25.415 (BasePageObject.java:30) - com.example.volt.PageObjects.MutualFundLoan.MFLoanPage Page Object Initialized
+ INFO [main] 2025-08-08 16:34:25.428 (Reporting.java:72) - *** Starting : TC17_TC18_hyperLinks ***
+DEBUG [main] 2025-08-08 16:34:28.764 (WaitHelper.java:43) - waiting for :WebElement -> xpath: //span[text()='T&Cs'] for :16 seconds
+DEBUG [main] 2025-08-08 16:34:28.826 (WaitHelper.java:46) - element is clickable now
+DEBUG [main] 2025-08-08 16:34:28.998 (BasePageObject.java:36) - [[ChromeDriver: chrome on windows (3a3ab41d96909c73cc99b4e15aa4f229)] -> xpath: //span[text()='T&Cs']] clicked
+DEBUG [main] 2025-08-08 16:34:29.775 (WaitHelper.java:43) - waiting for :WebElement -> xpath: //span[text()='Privacy Policy'] for :16 seconds
+DEBUG [main] 2025-08-08 16:34:29.825 (WaitHelper.java:46) - element is clickable now
+DEBUG [main] 2025-08-08 16:34:29.977 (BasePageObject.java:36) - [[ChromeDriver: chrome on windows (3a3ab41d96909c73cc99b4e15aa4f229)] -> xpath: //span[text()='Privacy Policy']] clicked
+ INFO [main] 2025-08-08 16:34:30.605 (Reporting.java:91) - *** Passed: TC17_TC18_hyperLinks ***
+DEBUG [TestNG-test-Test-3] 2025-08-08 16:35:02.639 (WaitHelper.java:34) - waiting for page to load for : 30 seconds
+DEBUG [TestNG-test-Test-2] 2025-08-08 16:35:02.640 (WaitHelper.java:34) - waiting for page to load for : 30 seconds
+DEBUG [TestNG-test-Test-4] 2025-08-08 16:35:02.640 (WaitHelper.java:34) - waiting for page to load for : 30 seconds
+DEBUG [TestNG-test-Test-1] 2025-08-08 16:35:02.639 (WaitHelper.java:34) - waiting for page to load for : 30 seconds
+DEBUG [TestNG-test-Test-3] 2025-08-08 16:35:02.657 (WaitHelper.java:36) - page is loaded
+DEBUG [TestNG-test-Test-2] 2025-08-08 16:35:02.658 (WaitHelper.java:36) - page is loaded
+DEBUG [TestNG-test-Test-3] 2025-08-08 16:35:02.658 (BasePageObject.java:30) - com.example.volt.PageObjects.MutualFundLoan.MFLoanPage Page Object Initialized
+DEBUG [TestNG-test-Test-4] 2025-08-08 16:35:02.658 (WaitHelper.java:36) - page is loaded
+DEBUG [TestNG-test-Test-4] 2025-08-08 16:35:02.661 (BasePageObject.java:30) - com.example.volt.PageObjects.MutualFundLoan.MFLoanPage Page Object Initialized
+DEBUG [TestNG-test-Test-2] 2025-08-08 16:35:02.658 (BasePageObject.java:30) - com.example.volt.PageObjects.MutualFundLoan.MFLoanPage Page Object Initialized
+DEBUG [TestNG-test-Test-1] 2025-08-08 16:35:02.661 (WaitHelper.java:36) - page is loaded
+DEBUG [TestNG-test-Test-1] 2025-08-08 16:35:02.664 (BasePageObject.java:30) - com.example.volt.PageObjects.MutualFundLoan.MFLoanPage Page Object Initialized
+ INFO [TestNG-test-Test-1] 2025-08-08 16:35:02.689 (Reporting.java:72) - *** Starting : TC01_TC02_VoltHomePage ***
+ INFO [TestNG-test-Test-3] 2025-08-08 16:35:02.710 (Reporting.java:72) - *** Starting : TC08_TC09_TC10_verifyHeaderHyperLinks ***
+ INFO [TestNG-test-Test-4] 2025-08-08 16:35:02.713 (Reporting.java:72) - *** Starting : TC11_TC12_TC13_TC14_TC15_TC16_CheckEligibilityFormValidation ***
+ INFO [TestNG-test-Test-2] 2025-08-08 16:35:02.716 (Reporting.java:72) - *** Starting : TC04_TC05_TC07_verifyHeaderHyperLinks ***
+DEBUG [TestNG-test-Test-3] 2025-08-08 16:35:06.402 (WaitHelper.java:43) - waiting for :WebElement -> xpath: //div[@class='header_headerLinksContainer__vC_ed'][text()='Contact us'] for :16 seconds
+DEBUG [TestNG-test-Test-1] 2025-08-08 16:35:06.536 (WaitHelper.java:43) - waiting for :WebElement -> xpath: //img[@alt='Volt money logo'] for :16 seconds
+DEBUG [TestNG-test-Test-3] 2025-08-08 16:35:06.556 (WaitHelper.java:46) - element is clickable now
+DEBUG [TestNG-test-Test-1] 2025-08-08 16:35:06.621 (WaitHelper.java:46) - element is clickable now
+DEBUG [TestNG-test-Test-2] 2025-08-08 16:35:06.634 (WaitHelper.java:43) - waiting for :WebElement -> xpath: //div[text()='Interest calculator'] for :16 seconds
+DEBUG [TestNG-test-Test-2] 2025-08-08 16:35:06.738 (WaitHelper.java:46) - element is clickable now
+DEBUG [TestNG-test-Test-4] 2025-08-08 16:35:06.963 (WaitHelper.java:43) - waiting for :WebElement -> xpath: //input[@placeholder='Enter mobile number'] for :16 seconds
+DEBUG [TestNG-test-Test-4] 2025-08-08 16:35:07.280 (WaitHelper.java:46) - element is clickable now
+DEBUG [TestNG-test-Test-1] 2025-08-08 16:35:08.628 (BasePageObject.java:36) - [[ChromeDriver: chrome on windows (a9ed7fbcd097ff4d5ae96a533eebd082)] -> xpath: //img[@alt='Volt money logo']] clicked
+ INFO [TestNG-test-Test-1] 2025-08-08 16:35:08.698 (Reporting.java:91) - *** Passed: TC01_TC02_VoltHomePage ***
+DEBUG [TestNG-test-Test-4] 2025-08-08 16:35:10.313 (ActionsHelper.java:67) - [[ChromeDriver: chrome on windows (b3760b4a6eeb0767af9cb34357dafd7e)] -> xpath: //input[@placeholder='Enter mobile number']] text cleared successfully
+DEBUG [TestNG-test-Test-4] 2025-08-08 16:35:10.551 (BasePageObject.java:48) - eugiuw^%(@) entered in element [[ChromeDriver: chrome on windows (b3760b4a6eeb0767af9cb34357dafd7e)] -> xpath: //input[@placeholder='Enter mobile number']]
+DEBUG [TestNG-test-Test-4] 2025-08-08 16:35:10.647 (WaitHelper.java:43) - waiting for :WebElement -> xpath: //input[@placeholder='Enter mobile number'] for :16 seconds
+DEBUG [TestNG-test-Test-4] 2025-08-08 16:35:11.256 (WaitHelper.java:46) - element is clickable now
+DEBUG [TestNG-test-Test-1] 2025-08-08 16:35:11.763 (WaitHelper.java:34) - waiting for page to load for : 30 seconds
+DEBUG [TestNG-test-Test-1] 2025-08-08 16:35:11.770 (WaitHelper.java:36) - page is loaded
+DEBUG [TestNG-test-Test-1] 2025-08-08 16:35:11.772 (BasePageObject.java:30) - com.example.volt.PageObjects.MutualFundLoan.MFLoanPage Page Object Initialized
+ INFO [TestNG-test-Test-1] 2025-08-08 16:35:11.774 (Reporting.java:72) - *** Starting : TC17_TC18_hyperLinks ***
+DEBUG [TestNG-test-Test-4] 2025-08-08 16:35:13.114 (ActionsHelper.java:67) - [[ChromeDriver: chrome on windows (b3760b4a6eeb0767af9cb34357dafd7e)] -> xpath: //input[@placeholder='Enter mobile number']] text cleared successfully
+DEBUG [TestNG-test-Test-4] 2025-08-08 16:35:13.234 (BasePageObject.java:48) - 8504575 entered in element [[ChromeDriver: chrome on windows (b3760b4a6eeb0767af9cb34357dafd7e)] -> xpath: //input[@placeholder='Enter mobile number']]
+DEBUG [TestNG-test-Test-4] 2025-08-08 16:35:13.259 (WaitHelper.java:43) - waiting for :WebElement -> xpath: //input[@placeholder='Enter PAN'] for :16 seconds
+DEBUG [TestNG-test-Test-4] 2025-08-08 16:35:13.326 (WaitHelper.java:46) - element is clickable now
+DEBUG [TestNG-test-Test-4] 2025-08-08 16:35:13.548 (BasePageObject.java:36) - [[ChromeDriver: chrome on windows (b3760b4a6eeb0767af9cb34357dafd7e)] -> xpath: //input[@placeholder='Enter PAN']] clicked
+DEBUG [TestNG-test-Test-4] 2025-08-08 16:35:13.594 (VisibilityHelper.java:28) - Enter a valis number is present and displayed
+DEBUG [TestNG-test-Test-4] 2025-08-08 16:35:13.622 (WaitHelper.java:43) - waiting for :WebElement -> xpath: //input[@placeholder='Enter mobile number'] for :16 seconds
+DEBUG [TestNG-test-Test-4] 2025-08-08 16:35:13.695 (WaitHelper.java:46) - element is clickable now
+DEBUG [TestNG-test-Test-1] 2025-08-08 16:35:15.262 (WaitHelper.java:43) - waiting for :WebElement -> xpath: //span[text()='T&Cs'] for :16 seconds
+DEBUG [TestNG-test-Test-1] 2025-08-08 16:35:15.351 (WaitHelper.java:46) - element is clickable now
+DEBUG [TestNG-test-Test-1] 2025-08-08 16:35:15.690 (BasePageObject.java:36) - [[ChromeDriver: chrome on windows (054c8bc400e9f670b27b02881abd02ba)] -> xpath: //span[text()='T&Cs']] clicked
+DEBUG [TestNG-test-Test-4] 2025-08-08 16:35:15.984 (ActionsHelper.java:67) - [[ChromeDriver: chrome on windows (b3760b4a6eeb0767af9cb34357dafd7e)] -> xpath: //input[@placeholder='Enter mobile number']] text cleared successfully
+DEBUG [TestNG-test-Test-4] 2025-08-08 16:35:16.154 (BasePageObject.java:48) - 978751401806 entered in element [[ChromeDriver: chrome on windows (b3760b4a6eeb0767af9cb34357dafd7e)] -> xpath: //input[@placeholder='Enter mobile number']]
+DEBUG [TestNG-test-Test-4] 2025-08-08 16:35:16.238 (WaitHelper.java:43) - waiting for :WebElement -> xpath: //input[@placeholder='Enter mobile number'] for :16 seconds
+DEBUG [TestNG-test-Test-4] 2025-08-08 16:35:16.335 (WaitHelper.java:46) - element is clickable now
+DEBUG [TestNG-test-Test-1] 2025-08-08 16:35:17.023 (WaitHelper.java:43) - waiting for :WebElement -> xpath: //span[text()='Privacy Policy'] for :16 seconds
+DEBUG [TestNG-test-Test-1] 2025-08-08 16:35:17.102 (WaitHelper.java:46) - element is clickable now
+DEBUG [TestNG-test-Test-1] 2025-08-08 16:35:17.339 (BasePageObject.java:36) - [[ChromeDriver: chrome on windows (054c8bc400e9f670b27b02881abd02ba)] -> xpath: //span[text()='Privacy Policy']] clicked
+DEBUG [TestNG-test-Test-4] 2025-08-08 16:35:17.962 (ActionsHelper.java:67) - [[ChromeDriver: chrome on windows (b3760b4a6eeb0767af9cb34357dafd7e)] -> xpath: //input[@placeholder='Enter mobile number']] text cleared successfully
+DEBUG [TestNG-test-Test-4] 2025-08-08 16:35:18.063 (BasePageObject.java:48) - 5823181115 entered in element [[ChromeDriver: chrome on windows (b3760b4a6eeb0767af9cb34357dafd7e)] -> xpath: //input[@placeholder='Enter mobile number']]
+DEBUG [TestNG-test-Test-4] 2025-08-08 16:35:18.078 (WaitHelper.java:43) - waiting for :WebElement -> xpath: //input[@placeholder='Enter PAN'] for :16 seconds
+DEBUG [TestNG-test-Test-4] 2025-08-08 16:35:18.119 (WaitHelper.java:46) - element is clickable now
+DEBUG [TestNG-test-Test-4] 2025-08-08 16:35:18.231 (BasePageObject.java:36) - [[ChromeDriver: chrome on windows (b3760b4a6eeb0767af9cb34357dafd7e)] -> xpath: //input[@placeholder='Enter PAN']] clicked
+DEBUG [TestNG-test-Test-4] 2025-08-08 16:35:18.258 (VisibilityHelper.java:31) - Enter a valis number is not present
+DEBUG [TestNG-test-Test-4] 2025-08-08 16:35:18.278 (WaitHelper.java:43) - waiting for :WebElement -> xpath: //input[@placeholder='Enter PAN'] for :16 seconds
+DEBUG [TestNG-test-Test-4] 2025-08-08 16:35:18.329 (WaitHelper.java:46) - element is clickable now
+DEBUG [TestNG-test-Test-4] 2025-08-08 16:35:19.286 (ActionsHelper.java:67) - [[ChromeDriver: chrome on windows (b3760b4a6eeb0767af9cb34357dafd7e)] -> xpath: //input[@placeholder='Enter PAN']] text cleared successfully
+DEBUG [TestNG-test-Test-4] 2025-08-08 16:35:19.412 (BasePageObject.java:48) - ADVPR78652 entered in element [[ChromeDriver: chrome on windows (b3760b4a6eeb0767af9cb34357dafd7e)] -> xpath: //input[@placeholder='Enter PAN']]
+DEBUG [TestNG-test-Test-4] 2025-08-08 16:35:19.452 (VisibilityHelper.java:28) - Enter Valid Pan is present and displayed
+DEBUG [TestNG-test-Test-4] 2025-08-08 16:35:19.511 (WaitHelper.java:43) - waiting for :WebElement -> xpath: //input[@placeholder='Enter PAN'] for :16 seconds
+DEBUG [TestNG-test-Test-4] 2025-08-08 16:35:19.829 (WaitHelper.java:46) - element is clickable now
+ INFO [TestNG-test-Test-1] 2025-08-08 16:35:19.962 (Reporting.java:91) - *** Passed: TC17_TC18_hyperLinks ***
+DEBUG [TestNG-test-Test-4] 2025-08-08 16:35:21.540 (ActionsHelper.java:67) - [[ChromeDriver: chrome on windows (b3760b4a6eeb0767af9cb34357dafd7e)] -> xpath: //input[@placeholder='Enter PAN']] text cleared successfully
+DEBUG [TestNG-test-Test-4] 2025-08-08 16:35:21.668 (BasePageObject.java:48) - wqq6qtlpwv entered in element [[ChromeDriver: chrome on windows (b3760b4a6eeb0767af9cb34357dafd7e)] -> xpath: //input[@placeholder='Enter PAN']]
+DEBUG [TestNG-test-Test-4] 2025-08-08 16:35:21.690 (VisibilityHelper.java:28) - Enter Valid Pan is present and displayed
+DEBUG [TestNG-test-Test-4] 2025-08-08 16:35:21.690 (WaitHelper.java:43) - waiting for :WebElement -> xpath: //input[@placeholder='Enter PAN'] for :16 seconds
+DEBUG [TestNG-test-Test-4] 2025-08-08 16:35:21.737 (WaitHelper.java:46) - element is clickable now
+DEBUG [TestNG-test-Test-4] 2025-08-08 16:35:22.640 (ActionsHelper.java:67) - [[ChromeDriver: chrome on windows (b3760b4a6eeb0767af9cb34357dafd7e)] -> xpath: //input[@placeholder='Enter PAN']] text cleared successfully
+DEBUG [TestNG-test-Test-4] 2025-08-08 16:35:22.747 (BasePageObject.java:48) - ABDPY6754D entered in element [[ChromeDriver: chrome on windows (b3760b4a6eeb0767af9cb34357dafd7e)] -> xpath: //input[@placeholder='Enter PAN']]
+DEBUG [TestNG-test-Test-4] 2025-08-08 16:35:22.762 (VisibilityHelper.java:31) - Enter Valid Pan is not present
+DEBUG [TestNG-test-Test-4] 2025-08-08 16:35:22.781 (WaitHelper.java:43) - waiting for :WebElement -> xpath: //div[@class='button_buttonContainerPrimary__ij4d0'] for :16 seconds
+DEBUG [TestNG-test-Test-4] 2025-08-08 16:35:22.819 (WaitHelper.java:46) - element is clickable now
+DEBUG [TestNG-test-Test-4] 2025-08-08 16:35:22.938 (BasePageObject.java:36) - [[ChromeDriver: chrome on windows (b3760b4a6eeb0767af9cb34357dafd7e)] -> xpath: //div[@class='button_buttonContainerPrimary__ij4d0']] clicked
+ INFO [TestNG-test-Test-4] 2025-08-08 16:35:23.995 (Reporting.java:91) - *** Passed: TC11_TC12_TC13_TC14_TC15_TC16_CheckEligibilityFormValidation ***
+DEBUG [TestNG-test-Test-3] 2025-08-08 16:35:28.071 (BasePageObject.java:36) - Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='header_headerLinksContainer__vC_ed'][text()='Contact us']' clicked
+DEBUG [TestNG-test-Test-2] 2025-08-08 16:35:28.866 (BasePageObject.java:36) - Proxy element for: DefaultElementLocator 'By.xpath: //div[text()='Interest calculator']' clicked
+DEBUG [TestNG-test-Test-3] 2025-08-08 16:35:28.885 (WaitHelper.java:43) - waiting for :WebElement -> xpath: //div[@class='header_headerLinksContainer__vC_ed'][text()='About us'] for :16 seconds
+DEBUG [TestNG-test-Test-2] 2025-08-08 16:35:28.894 (WaitHelper.java:43) - waiting for :WebElement -> xpath: //div[@class='button_buttonPrimaryLarge__zgNyF'] for :16 seconds
+DEBUG [TestNG-test-Test-3] 2025-08-08 16:35:28.923 (WaitHelper.java:46) - element is clickable now
+DEBUG [TestNG-test-Test-2] 2025-08-08 16:35:28.934 (WaitHelper.java:46) - element is clickable now
+DEBUG [TestNG-test-Test-2] 2025-08-08 16:35:30.041 (BasePageObject.java:36) - [[ChromeDriver: chrome on windows (bd8742917261efaf53d3a8baa91abed2)] -> xpath: //div[@class='button_buttonPrimaryLarge__zgNyF']] clicked
+DEBUG [TestNG-test-Test-2] 2025-08-08 16:35:30.198 (WaitHelper.java:43) - waiting for :WebElement -> xpath: //div[text()='Capital gain statement'] for :16 seconds
+DEBUG [TestNG-test-Test-2] 2025-08-08 16:35:30.239 (WaitHelper.java:46) - element is clickable now
+DEBUG [TestNG-test-Test-3] 2025-08-08 16:35:49.772 (BasePageObject.java:36) - Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='header_headerLinksContainer__vC_ed'][text()='About us']' clicked
+DEBUG [TestNG-test-Test-3] 2025-08-08 16:35:50.549 (WaitHelper.java:43) - waiting for :WebElement -> xpath: //div[@class='button_buttonOutlineTransparentLarge___Dr9n']/div[text()='Sign in'] for :16 seconds
+DEBUG [TestNG-test-Test-3] 2025-08-08 16:35:50.587 (WaitHelper.java:46) - element is clickable now
+DEBUG [TestNG-test-Test-3] 2025-08-08 16:35:50.728 (BasePageObject.java:36) - [[ChromeDriver: chrome on windows (cf122f09f121c1e8c39f8141a5dd1b08)] -> xpath: //div[@class='button_buttonOutlineTransparentLarge___Dr9n']/div[text()='Sign in']] clicked
+ INFO [TestNG-test-Test-3] 2025-08-08 16:35:56.741 (Reporting.java:91) - *** Passed: TC08_TC09_TC10_verifyHeaderHyperLinks ***
+DEBUG [TestNG-test-Test-2] 2025-08-08 16:35:57.174 (BasePageObject.java:36) - Proxy element for: DefaultElementLocator 'By.xpath: //div[text()='Capital gain statement']' clicked
+DEBUG [TestNG-test-Test-2] 2025-08-08 16:35:57.193 (WaitHelper.java:43) - waiting for :WebElement -> xpath: //div[@class='button_buttonPrimaryLarge__zgNyF'] for :16 seconds
+DEBUG [TestNG-test-Test-2] 2025-08-08 16:35:57.270 (WaitHelper.java:46) - element is clickable now
+DEBUG [TestNG-test-Test-2] 2025-08-08 16:35:58.180 (BasePageObject.java:36) - [[ChromeDriver: chrome on windows (bd8742917261efaf53d3a8baa91abed2)] -> xpath: //div[@class='button_buttonPrimaryLarge__zgNyF']] clicked
+DEBUG [TestNG-test-Test-2] 2025-08-08 16:35:58.339 (WaitHelper.java:43) - waiting for :WebElement -> xpath: //div[text()='For Mutual fund distributors'] for :16 seconds
+DEBUG [TestNG-test-Test-2] 2025-08-08 16:35:58.374 (WaitHelper.java:46) - element is clickable now
+DEBUG [TestNG-test-Test-2] 2025-08-08 16:36:19.079 (BasePageObject.java:36) - Proxy element for: DefaultElementLocator 'By.xpath: //div[text()='For Mutual fund distributors']' clicked
+ INFO [TestNG-test-Test-2] 2025-08-08 16:36:19.090 (Reporting.java:91) - *** Passed: TC04_TC05_TC07_verifyHeaderHyperLinks ***
