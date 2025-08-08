@@ -24,7 +24,41 @@ public class MFLoanPage extends BasePageObject {
     @FindBy(xpath = "//img[@alt='Volt money logo']")
     WebElement btnVoltHome;
 
+    @FindBy(xpath = "//div[text()='Interest calculator']")
+    WebElement btnInterestCalculator;
+
+    @FindBy(xpath = "//div[text()='Capital gain statement']")
+    WebElement btnCapitalGainStatement;
+
+    @FindBy(xpath = "//div[@class='button_buttonPrimaryLarge__zgNyF']")
+    WebElement btnCheckEligibility;
+
+    @FindBy(xpath = "//div[@class='header_integrateWithUsContainer__7zqZs']//div[text()='Partner with us']")
+    WebElement btnPartnerWithUs;
+
+    @FindBy(xpath = "//div[text()='For Mutual fund distributors']")
+    WebElement btnForMFDistributors;
+
     public void clickVoltHome(){
         click(btnVoltHome);
+    }
+
+    public void clickInterestCaluculator(){
+        actionsHelper.hoverOver(btnResources);
+        click(btnInterestCalculator);
+    }
+
+    public void clickCapitalGainStatement(){
+        actionsHelper.hoverOver(btnResources);
+        click(btnCapitalGainStatement);
+    }
+
+    public void clickCheckEligibility(){
+        click(btnCheckEligibility);
+    }
+
+    public void clickMFDistributors(){
+        actionsHelper.hoverOver(btnPartnerWithUs);
+        click(btnForMFDistributors);
     }
 }
