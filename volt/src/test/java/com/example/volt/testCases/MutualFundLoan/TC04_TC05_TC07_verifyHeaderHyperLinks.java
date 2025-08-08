@@ -15,7 +15,7 @@ public class TC04_TC05_TC07_verifyHeaderHyperLinks extends BaseTest {
         mfLoanPage = new MFLoanPage(driver);
     }
 
-    @Test(description = "This test url redirection to interest calculation page")
+    @Test(description = "This test url redirection to various header elements")
     public void validateHeaderHyperLinks() {
         startDriver();
         mfLoanPage.clickInterestCaluculator();

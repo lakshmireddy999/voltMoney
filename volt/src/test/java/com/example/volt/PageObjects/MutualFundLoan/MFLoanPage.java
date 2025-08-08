@@ -39,26 +39,47 @@ public class MFLoanPage extends BasePageObject {
     @FindBy(xpath = "//div[text()='For Mutual fund distributors']")
     WebElement btnForMFDistributors;
 
-    public void clickVoltHome(){
+    @FindBy(xpath = "//div[@class='header_headerLinksContainer__vC_ed'][text()='Contact us']")
+    WebElement btnContactUs;
+
+    @FindBy(xpath = "//div[@class='header_headerLinksContainer__vC_ed'][text()='About us']")
+    WebElement btnAboutUs;
+
+    @FindBy(xpath = "//div[@class='button_buttonOutlineTransparentLarge___Dr9n']/div[text()='Sign in']")
+    WebElement btnSignIn;
+
+    public void clickSignIn() {
+        click(btnSignIn);
+    }
+
+    public void clickAboutUs() {
+        click(btnAboutUs);
+    }
+
+    public void clickVoltHome() {
         click(btnVoltHome);
     }
 
-    public void clickInterestCaluculator(){
+    public void clickInterestCaluculator() {
         actionsHelper.hoverOver(btnResources);
         click(btnInterestCalculator);
     }
 
-    public void clickCapitalGainStatement(){
+    public void clickCapitalGainStatement() {
         actionsHelper.hoverOver(btnResources);
         click(btnCapitalGainStatement);
     }
 
-    public void clickCheckEligibility(){
+    public void clickCheckEligibility() {
         click(btnCheckEligibility);
     }
 
-    public void clickMFDistributors(){
+    public void clickMFDistributors() {
         actionsHelper.hoverOver(btnPartnerWithUs);
         click(btnForMFDistributors);
+    }
+
+    public void clickContactUs() {
+        click(btnContactUs);
     }
 }

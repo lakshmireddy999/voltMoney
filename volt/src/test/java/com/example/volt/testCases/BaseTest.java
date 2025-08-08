@@ -1,6 +1,10 @@
 package com.example.volt.testCases;
 
 import java.time.Duration;
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Set;
+
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -110,6 +114,15 @@ public class BaseTest {
         driver.get(url);
     }
     
+    public List<String> getWindowHandles(){
+        Set<String> set = driver.getWindowHandles();
+        List<String> handles = new ArrayList<>();
+        for(String s: set){
+            handles.add(s);
+        }
+        return handles;
+    }
+
     @AfterClass(alwaysRun = true)
     public void tearDown() {
         if (driver != null) {
