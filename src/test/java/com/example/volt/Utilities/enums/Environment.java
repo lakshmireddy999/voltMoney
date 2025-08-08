@@ -1,8 +1,5 @@
 package com.example.volt.Utilities.enums;
 
-import lombok.Getter;
-
-@Getter
 public enum Environment {
 
     test("voltmoney.in/check-loan-eligibility-against-mutual-funds");
@@ -12,4 +9,8 @@ public enum Environment {
     }
 
     private final String voltUrl;
+
+    public String getVoltUrl() {
+        return this.voltUrl;
+    }
 }

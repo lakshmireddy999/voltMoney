@@ -6,7 +6,6 @@ import java.util.List;
 import java.util.Set;
 
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.firefox.FirefoxDriver;
@@ -15,14 +14,17 @@ import org.openqa.selenium.firefox.FirefoxProfile;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
+import org.testng.annotations.Listeners;
 import org.testng.annotations.Optional;
 
 import com.example.volt.Helper.WaitHelper;
 import com.example.volt.Utilities.ReadConfig;
+import com.example.volt.Utilities.Reporting;
 import com.example.volt.Utilities.enums.Environment;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
+@Listeners(Reporting.class)
 public class BaseTest {
     public Environment env;
     public WebDriver driver;
