@@ -1,6 +1,7 @@
 package com.example.volt.PageObjects;
 
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.PageFactory;
 import org.apache.log4j.Logger;
 
@@ -24,5 +25,11 @@ public class BasePageObject {
         waitHelper = new WaitHelper(driver);
         waitHelper.pageLoadTime(30);
         logger.debug(this.getClass().getName() + " Page Object Initialized");
+    }
+
+     public void click(WebElement element) {
+        waitHelper.waitForElementClickable(element);
+        element.click();
+        logger.debug(element + " clicked");
     }
 }

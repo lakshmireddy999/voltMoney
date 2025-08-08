@@ -2,6 +2,7 @@ package com.example.volt.testCases;
 
 import java.time.Duration;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.firefox.FirefoxDriver;
@@ -12,6 +13,7 @@ import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Optional;
 
+import com.example.volt.Helper.WaitHelper;
 import com.example.volt.Utilities.ReadConfig;
 import com.example.volt.Utilities.enums.Environment;
 
@@ -20,6 +22,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 public class BaseTest {
     public Environment env;
     public WebDriver driver;
+    public WaitHelper waitHelper;
 
     ReadConfig readConfig = new ReadConfig();
     public String browser = readConfig.getBrowser();
@@ -31,6 +34,8 @@ public class BaseTest {
         env = envParam == null ? readConfig.getEnvironment() : envParam;
         headlessMode = headlessModeParam == null ? readConfig.getMode() : headlessModeParam;
         driver = browserParam == null ? initializeDriver(browser) : initializeDriver(browserParam);
+
+        waitHelper = new WaitHelper(driver);
     }
 
     public WebDriver initializeDriver(String browser) {
@@ -100,6 +105,11 @@ public class BaseTest {
         return null;
     }
 
+    public void startDriver(){
+        String url = env.getVoltUrl();
+        driver.get(url);
+    }
+    
     @AfterClass(alwaysRun = true)
     public void tearDown() {
         if (driver != null) {
