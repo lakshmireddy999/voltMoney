@@ -1,0 +1,6 @@
+ INFO [TestNG-test-Test-2] 2025-08-08 15:33:12.827 (Reporting.java:72) - *** Starting : TC04_TC05_TC07_verifyHeaderHyperLinks ***
+ INFO [TestNG-test-Test-1] 2025-08-08 15:33:12.869 (Reporting.java:72) - *** Starting : TC01_TC02_VoltHomePage ***
+ INFO [TestNG-test-Test-3] 2025-08-08 15:33:12.872 (Reporting.java:72) - *** Starting : TC08_TC09_TC10_verifyHeaderHyperLinks ***
+ INFO [TestNG-test-Test-1] 2025-08-08 15:33:17.668 (Reporting.java:91) - *** Passed: TC01_TC02_VoltHomePage ***
+ INFO [TestNG-test-Test-3] 2025-08-08 15:34:09.580 (Reporting.java:91) - *** Passed: TC08_TC09_TC10_verifyHeaderHyperLinks ***
+ INFO [TestNG-test-Test-2] 2025-08-08 15:34:30.072 (Reporting.java:91) - *** Passed: TC04_TC05_TC07_verifyHeaderHyperLinks ***

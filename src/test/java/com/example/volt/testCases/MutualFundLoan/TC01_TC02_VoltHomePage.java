@@ -16,7 +16,7 @@ public class TC01_TC02_VoltHomePage extends BaseTest{
         mfLoanPage = new MFLoanPage(driver);
     }
 
-    @Test(description = "This test the loading of Home Page")
+    @Test(description = "This test the loading of Home Page", groups={"regression"})
     public void validateHomepage(){
         startDriver();
         mfLoanPage.clickVoltHome();

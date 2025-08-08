@@ -1,0 +1,42 @@
+DEBUG [TestNG-test-Test-3] 2025-08-08 15:33:12.752 (WaitHelper.java:34) - waiting for page to load for : 30 seconds
+DEBUG [TestNG-test-Test-2] 2025-08-08 15:33:12.753 (WaitHelper.java:34) - waiting for page to load for : 30 seconds
+DEBUG [TestNG-test-Test-1] 2025-08-08 15:33:12.753 (WaitHelper.java:34) - waiting for page to load for : 30 seconds
+DEBUG [TestNG-test-Test-3] 2025-08-08 15:33:12.772 (WaitHelper.java:36) - page is loaded
+DEBUG [TestNG-test-Test-3] 2025-08-08 15:33:12.774 (BasePageObject.java:27) - com.example.volt.PageObjects.MutualFundLoan.MFLoanPage Page Object Initialized
+DEBUG [TestNG-test-Test-1] 2025-08-08 15:33:12.780 (WaitHelper.java:36) - page is loaded
+DEBUG [TestNG-test-Test-1] 2025-08-08 15:33:12.780 (BasePageObject.java:27) - com.example.volt.PageObjects.MutualFundLoan.MFLoanPage Page Object Initialized
+DEBUG [TestNG-test-Test-2] 2025-08-08 15:33:12.782 (WaitHelper.java:36) - page is loaded
+DEBUG [TestNG-test-Test-2] 2025-08-08 15:33:12.799 (BasePageObject.java:27) - com.example.volt.PageObjects.MutualFundLoan.MFLoanPage Page Object Initialized
+ INFO [TestNG-test-Test-2] 2025-08-08 15:33:12.827 (Reporting.java:72) - *** Starting : TC04_TC05_TC07_verifyHeaderHyperLinks ***
+ INFO [TestNG-test-Test-1] 2025-08-08 15:33:12.869 (Reporting.java:72) - *** Starting : TC01_TC02_VoltHomePage ***
+ INFO [TestNG-test-Test-3] 2025-08-08 15:33:12.872 (Reporting.java:72) - *** Starting : TC08_TC09_TC10_verifyHeaderHyperLinks ***
+DEBUG [TestNG-test-Test-1] 2025-08-08 15:33:16.133 (WaitHelper.java:43) - waiting for :WebElement -> xpath: //img[@alt='Volt money logo'] for :16 seconds
+DEBUG [TestNG-test-Test-1] 2025-08-08 15:33:16.250 (WaitHelper.java:46) - element is clickable now
+DEBUG [TestNG-test-Test-3] 2025-08-08 15:33:16.285 (WaitHelper.java:43) - waiting for :WebElement -> xpath: //div[@class='header_headerLinksContainer__vC_ed'][text()='Contact us'] for :16 seconds
+DEBUG [TestNG-test-Test-3] 2025-08-08 15:33:16.393 (WaitHelper.java:46) - element is clickable now
+DEBUG [TestNG-test-Test-2] 2025-08-08 15:33:16.521 (WaitHelper.java:43) - waiting for :WebElement -> xpath: //div[text()='Interest calculator'] for :16 seconds
+DEBUG [TestNG-test-Test-2] 2025-08-08 15:33:16.652 (WaitHelper.java:46) - element is clickable now
+DEBUG [TestNG-test-Test-1] 2025-08-08 15:33:17.634 (BasePageObject.java:33) - [[ChromeDriver: chrome on windows (e490f16ca38178ca8f971d7c11bc56ac)] -> xpath: //img[@alt='Volt money logo']] clicked
+ INFO [TestNG-test-Test-1] 2025-08-08 15:33:17.668 (Reporting.java:91) - *** Passed: TC01_TC02_VoltHomePage ***
+DEBUG [TestNG-test-Test-3] 2025-08-08 15:33:37.929 (BasePageObject.java:33) - Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='header_headerLinksContainer__vC_ed'][text()='Contact us']' clicked
+DEBUG [TestNG-test-Test-2] 2025-08-08 15:33:38.323 (BasePageObject.java:33) - Proxy element for: DefaultElementLocator 'By.xpath: //div[text()='Interest calculator']' clicked
+DEBUG [TestNG-test-Test-2] 2025-08-08 15:33:38.365 (WaitHelper.java:43) - waiting for :WebElement -> xpath: //div[@class='button_buttonPrimaryLarge__zgNyF'] for :16 seconds
+DEBUG [TestNG-test-Test-2] 2025-08-08 15:33:38.427 (WaitHelper.java:46) - element is clickable now
+DEBUG [TestNG-test-Test-3] 2025-08-08 15:33:38.893 (WaitHelper.java:43) - waiting for :WebElement -> xpath: //div[@class='header_headerLinksContainer__vC_ed'][text()='About us'] for :16 seconds
+DEBUG [TestNG-test-Test-3] 2025-08-08 15:33:38.954 (WaitHelper.java:46) - element is clickable now
+DEBUG [TestNG-test-Test-2] 2025-08-08 15:33:39.482 (BasePageObject.java:33) - [[ChromeDriver: chrome on windows (58ae5c0efd9ad55add5c84bba606b65d)] -> xpath: //div[@class='button_buttonPrimaryLarge__zgNyF']] clicked
+DEBUG [TestNG-test-Test-2] 2025-08-08 15:33:39.662 (WaitHelper.java:43) - waiting for :WebElement -> xpath: //div[text()='Capital gain statement'] for :16 seconds
+DEBUG [TestNG-test-Test-2] 2025-08-08 15:33:39.714 (WaitHelper.java:46) - element is clickable now
+DEBUG [TestNG-test-Test-3] 2025-08-08 15:34:01.568 (BasePageObject.java:33) - Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='header_headerLinksContainer__vC_ed'][text()='About us']' clicked
+DEBUG [TestNG-test-Test-3] 2025-08-08 15:34:02.464 (WaitHelper.java:43) - waiting for :WebElement -> xpath: //div[@class='button_buttonOutlineTransparentLarge___Dr9n']/div[text()='Sign in'] for :16 seconds
+DEBUG [TestNG-test-Test-3] 2025-08-08 15:34:02.547 (WaitHelper.java:46) - element is clickable now
+DEBUG [TestNG-test-Test-3] 2025-08-08 15:34:02.759 (BasePageObject.java:33) - [[ChromeDriver: chrome on windows (7e1b476373058ae5ea21759287eb478a)] -> xpath: //div[@class='button_buttonOutlineTransparentLarge___Dr9n']/div[text()='Sign in']] clicked
+DEBUG [TestNG-test-Test-2] 2025-08-08 15:34:06.748 (BasePageObject.java:33) - Proxy element for: DefaultElementLocator 'By.xpath: //div[text()='Capital gain statement']' clicked
+DEBUG [TestNG-test-Test-2] 2025-08-08 15:34:06.781 (WaitHelper.java:43) - waiting for :WebElement -> xpath: //div[@class='button_buttonPrimaryLarge__zgNyF'] for :16 seconds
+DEBUG [TestNG-test-Test-2] 2025-08-08 15:34:06.851 (WaitHelper.java:46) - element is clickable now
+DEBUG [TestNG-test-Test-2] 2025-08-08 15:34:08.237 (BasePageObject.java:33) - [[ChromeDriver: chrome on windows (58ae5c0efd9ad55add5c84bba606b65d)] -> xpath: //div[@class='button_buttonPrimaryLarge__zgNyF']] clicked
+DEBUG [TestNG-test-Test-2] 2025-08-08 15:34:08.437 (WaitHelper.java:43) - waiting for :WebElement -> xpath: //div[text()='For Mutual fund distributors'] for :16 seconds
+DEBUG [TestNG-test-Test-2] 2025-08-08 15:34:08.519 (WaitHelper.java:46) - element is clickable now
+ INFO [TestNG-test-Test-3] 2025-08-08 15:34:09.580 (Reporting.java:91) - *** Passed: TC08_TC09_TC10_verifyHeaderHyperLinks ***
+DEBUG [TestNG-test-Test-2] 2025-08-08 15:34:30.059 (BasePageObject.java:33) - Proxy element for: DefaultElementLocator 'By.xpath: //div[text()='For Mutual fund distributors']' clicked
+ INFO [TestNG-test-Test-2] 2025-08-08 15:34:30.072 (Reporting.java:91) - *** Passed: TC04_TC05_TC07_verifyHeaderHyperLinks ***

@@ -3,8 +3,13 @@
 <suite name="Suite" parallel="classes" thread-count="4">
 
     <test name="Test">
+        <groups>
+            <run>
+                <include name="regression"></include>
+            </run>
+        </groups>
         <packages>
-            <package name="com.example.volt.testCases" />
+            <package name="com.example.volt.testCases.MutualFundLoan" />
         </packages>
     </test>
 </suite>
