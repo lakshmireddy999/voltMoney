@@ -24,7 +24,7 @@ public class JsonsToExtentReport {
                 .as(new ViewName[] { ViewName.DASHBOARD, ViewName.CATEGORY, ViewName.TEST, ViewName.EXCEPTION })
                 .apply();
         htmlReporter.config().setDocumentTitle("Automation Test Report");
-        htmlReporter.config().setReportName("myBlueprint");
+        htmlReporter.config().setReportName("Volt-Money");
         htmlReporter.config().setEncoding("UTF-8");
         htmlReporter.config().setTheme(Theme.STANDARD);
         htmlReporter.config().setTimeStampFormat("MMM dd, yyyy HH:mm:ss");
